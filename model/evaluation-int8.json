@@ -1,0 +1,86 @@
+[
+  {
+    "prompt": "hello tiny",
+    "expected_hint": "hello",
+    "reply": "hello! how can i help you?",
+    "hint_present": true
+  },
+  {
+    "prompt": "what do i call you",
+    "expected_hint": "tiny",
+    "reply": "i can try short replies about simple topics. i am still an experimental model.",
+    "hint_present": false
+  },
+  {
+    "prompt": "are your replies made on this chip",
+    "expected_hint": "esp8266",
+    "reply": "the esp8266 is a small microcontroller with wi-fi and limited memory.",
+    "hint_present": true
+  },
+  {
+    "prompt": "explain what ram does",
+    "expected_hint": "temporary",
+    "reply": "ram holds temporary data while a program is running.",
+    "hint_present": true
+  },
+  {
+    "prompt": "what does flash keep",
+    "expected_hint": "power",
+    "reply": "flash memory keeps programs and data even when the power is off.",
+    "hint_present": true
+  },
+  {
+    "prompt": "what does a language model learn",
+    "expected_hint": "patterns",
+    "reply": "a language model learns patterns in text and predicts what comes next.",
+    "hint_present": true
+  },
+  {
+    "prompt": "could you tell me a joke",
+    "expected_hint": "windows",
+    "reply": "why did the computer get cold? it left its windows open.",
+    "hint_present": true
+  },
+  {
+    "prompt": "please explain what wifi does",
+    "expected_hint": "network",
+    "reply": "wi-fi connects devices over a wireless network.",
+    "hint_present": true
+  },
+  {
+    "prompt": "can this work without the internet",
+    "expected_hint": "offline",
+    "reply": "the computer for an led.",
+    "hint_present": false
+  },
+  {
+    "prompt": "how can i start learning to program",
+    "expected_hint": "program",
+    "reply": "start with a small program, change it, and observe what happens. practice a little each day.",
+    "hint_present": true
+  },
+  {
+    "prompt": "thanks for your help",
+    "expected_hint": "welcome",
+    "reply": "you're welcome!",
+    "hint_present": true
+  },
+  {
+    "prompt": "what is the capital of france",
+    "expected_hint": "paris",
+    "reply": "the programs and data even when the power is off.",
+    "hint_present": false
+  },
+  {
+    "prompt": "how do you store your learned numbers",
+    "expected_hint": "weights",
+    "reply": "i am tiny, a neural language model running on an esp8266.",
+    "hint_present": false
+  },
+  {
+    "prompt": "can you explain what a resistor does",
+    "expected_hint": "current",
+    "reply": "a resistor limits electric current in a circuit.",
+    "hint_present": true
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "prompt": "hello",
+    "tokens": [
+      12,
+      9,
+      16,
+      16,
+      19,
+      44,
+      4,
+      12
+    ],
+    "reply": "hello! how can i help you?"
+  },
+  {
+    "prompt": "what is ram",
+    "tokens": [
+      22,
+      5,
+      17,
+      4,
+      12,
+      19,
+      16,
+      8
+    ],
+    "reply": "ram holds temporary data while a program is running."
+  },
+  {
+    "prompt": "what is your name",
+    "tokens": [
+      7,
+      5,
+      16,
+      16,
+      4,
+      17,
+      9,
+      4
+    ],
+    "reply": "call me tiny. i am a small neural model on this board."
+  }
+]

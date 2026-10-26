@@ -1,0 +1,4232 @@
+[
+  {
+    "user": "hi",
+    "assistant": "hello! how can i help you?",
+    "group": 0
+  },
+  {
+    "user": "hi",
+    "assistant": "hi! what would you like to talk about?",
+    "group": 0
+  },
+  {
+    "user": "hello",
+    "assistant": "hello! how can i help you?",
+    "group": 0
+  },
+  {
+    "user": "hello?",
+    "assistant": "hello! how can i help you?",
+    "group": 0
+  },
+  {
+    "user": "please hello",
+    "assistant": "hello! how can i help you?",
+    "group": 0
+  },
+  {
+    "user": "hello",
+    "assistant": "hi! what would you like to talk about?",
+    "group": 0
+  },
+  {
+    "user": "hello?",
+    "assistant": "hi! what would you like to talk about?",
+    "group": 0
+  },
+  {
+    "user": "please hello",
+    "assistant": "hi! what would you like to talk about?",
+    "group": 0
+  },
+  {
+    "user": "hey",
+    "assistant": "hello! how can i help you?",
+    "group": 0
+  },
+  {
+    "user": "hey?",
+    "assistant": "hello! how can i help you?",
+    "group": 0
+  },
+  {
+    "user": "please hey",
+    "assistant": "hello! how can i help you?",
+    "group": 0
+  },
+  {
+    "user": "hey",
+    "assistant": "hi! what would you like to talk about?",
+    "group": 0
+  },
+  {
+    "user": "hey?",
+    "assistant": "hi! what would you like to talk about?",
+    "group": 0
+  },
+  {
+    "user": "please hey",
+    "assistant": "hi! what would you like to talk about?",
+    "group": 0
+  },
+  {
+    "user": "hello there",
+    "assistant": "hello! how can i help you?",
+    "group": 0
+  },
+  {
+    "user": "hello there?",
+    "assistant": "hello! how can i help you?",
+    "group": 0
+  },
+  {
+    "user": "please hello there",
+    "assistant": "hello! how can i help you?",
+    "group": 0
+  },
+  {
+    "user": "hello there",
+    "assistant": "hi! what would you like to talk about?",
+    "group": 0
+  },
+  {
+    "user": "hello there?",
+    "assistant": "hi! what would you like to talk about?",
+    "group": 0
+  },
+  {
+    "user": "please hello there",
+    "assistant": "hi! what would you like to talk about?",
+    "group": 0
+  },
+  {
+    "user": "hey there",
+    "assistant": "hello! how can i help you?",
+    "group": 0
+  },
+  {
+    "user": "hey there?",
+    "assistant": "hello! how can i help you?",
+    "group": 0
+  },
+  {
+    "user": "please hey there",
+    "assistant": "hello! how can i help you?",
+    "group": 0
+  },
+  {
+    "user": "hey there",
+    "assistant": "hi! what would you like to talk about?",
+    "group": 0
+  },
+  {
+    "user": "hey there?",
+    "assistant": "hi! what would you like to talk about?",
+    "group": 0
+  },
+  {
+    "user": "please hey there",
+    "assistant": "hi! what would you like to talk about?",
+    "group": 0
+  },
+  {
+    "user": "good morning",
+    "assistant": "hello! how can i help you?",
+    "group": 0
+  },
+  {
+    "user": "good morning?",
+    "assistant": "hello! how can i help you?",
+    "group": 0
+  },
+  {
+    "user": "please good morning",
+    "assistant": "hello! how can i help you?",
+    "group": 0
+  },
+  {
+    "user": "good morning",
+    "assistant": "hi! what would you like to talk about?",
+    "group": 0
+  },
+  {
+    "user": "good morning?",
+    "assistant": "hi! what would you like to talk about?",
+    "group": 0
+  },
+  {
+    "user": "please good morning",
+    "assistant": "hi! what would you like to talk about?",
+    "group": 0
+  },
+  {
+    "user": "good afternoon",
+    "assistant": "hello! how can i help you?",
+    "group": 0
+  },
+  {
+    "user": "good afternoon?",
+    "assistant": "hello! how can i help you?",
+    "group": 0
+  },
+  {
+    "user": "please good afternoon",
+    "assistant": "hello! how can i help you?",
+    "group": 0
+  },
+  {
+    "user": "good afternoon",
+    "assistant": "hi! what would you like to talk about?",
+    "group": 0
+  },
+  {
+    "user": "good afternoon?",
+    "assistant": "hi! what would you like to talk about?",
+    "group": 0
+  },
+  {
+    "user": "please good afternoon",
+    "assistant": "hi! what would you like to talk about?",
+    "group": 0
+  },
+  {
+    "user": "good evening",
+    "assistant": "hello! how can i help you?",
+    "group": 0
+  },
+  {
+    "user": "good evening?",
+    "assistant": "hello! how can i help you?",
+    "group": 0
+  },
+  {
+    "user": "please good evening",
+    "assistant": "hello! how can i help you?",
+    "group": 0
+  },
+  {
+    "user": "good evening",
+    "assistant": "hi! what would you like to talk about?",
+    "group": 0
+  },
+  {
+    "user": "good evening?",
+    "assistant": "hi! what would you like to talk about?",
+    "group": 0
+  },
+  {
+    "user": "please good evening",
+    "assistant": "hi! what would you like to talk about?",
+    "group": 0
+  },
+  {
+    "user": "hiya",
+    "assistant": "hello! how can i help you?",
+    "group": 0
+  },
+  {
+    "user": "hiya?",
+    "assistant": "hello! how can i help you?",
+    "group": 0
+  },
+  {
+    "user": "please hiya",
+    "assistant": "hello! how can i help you?",
+    "group": 0
+  },
+  {
+    "user": "hiya",
+    "assistant": "hi! what would you like to talk about?",
+    "group": 0
+  },
+  {
+    "user": "hiya?",
+    "assistant": "hi! what would you like to talk about?",
+    "group": 0
+  },
+  {
+    "user": "please hiya",
+    "assistant": "hi! what would you like to talk about?",
+    "group": 0
+  },
+  {
+    "user": "greetings",
+    "assistant": "hello! how can i help you?",
+    "group": 0
+  },
+  {
+    "user": "greetings?",
+    "assistant": "hello! how can i help you?",
+    "group": 0
+  },
+  {
+    "user": "please greetings",
+    "assistant": "hello! how can i help you?",
+    "group": 0
+  },
+  {
+    "user": "greetings",
+    "assistant": "hi! what would you like to talk about?",
+    "group": 0
+  },
+  {
+    "user": "greetings?",
+    "assistant": "hi! what would you like to talk about?",
+    "group": 0
+  },
+  {
+    "user": "please greetings",
+    "assistant": "hi! what would you like to talk about?",
+    "group": 0
+  },
+  {
+    "user": "how are you",
+    "assistant": "i am ready to chat. how are you?",
+    "group": 1
+  },
+  {
+    "user": "how are you?",
+    "assistant": "i am ready to chat. how are you?",
+    "group": 1
+  },
+  {
+    "user": "please how are you",
+    "assistant": "i am ready to chat. how are you?",
+    "group": 1
+  },
+  {
+    "user": "how are you",
+    "assistant": "i am doing well. what is on your mind?",
+    "group": 1
+  },
+  {
+    "user": "how are you?",
+    "assistant": "i am doing well. what is on your mind?",
+    "group": 1
+  },
+  {
+    "user": "please how are you",
+    "assistant": "i am doing well. what is on your mind?",
+    "group": 1
+  },
+  {
+    "user": "how are you doing",
+    "assistant": "i am ready to chat. how are you?",
+    "group": 1
+  },
+  {
+    "user": "how are you doing?",
+    "assistant": "i am ready to chat. how are you?",
+    "group": 1
+  },
+  {
+    "user": "please how are you doing",
+    "assistant": "i am ready to chat. how are you?",
+    "group": 1
+  },
+  {
+    "user": "how are you doing",
+    "assistant": "i am doing well. what is on your mind?",
+    "group": 1
+  },
+  {
+    "user": "how are you doing?",
+    "assistant": "i am doing well. what is on your mind?",
+    "group": 1
+  },
+  {
+    "user": "please how are you doing",
+    "assistant": "i am doing well. what is on your mind?",
+    "group": 1
+  },
+  {
+    "user": "how is it going",
+    "assistant": "i am ready to chat. how are you?",
+    "group": 1
+  },
+  {
+    "user": "how is it going?",
+    "assistant": "i am ready to chat. how are you?",
+    "group": 1
+  },
+  {
+    "user": "please how is it going",
+    "assistant": "i am ready to chat. how are you?",
+    "group": 1
+  },
+  {
+    "user": "how is it going",
+    "assistant": "i am doing well. what is on your mind?",
+    "group": 1
+  },
+  {
+    "user": "how is it going?",
+    "assistant": "i am doing well. what is on your mind?",
+    "group": 1
+  },
+  {
+    "user": "please how is it going",
+    "assistant": "i am doing well. what is on your mind?",
+    "group": 1
+  },
+  {
+    "user": "are you okay",
+    "assistant": "i am ready to chat. how are you?",
+    "group": 1
+  },
+  {
+    "user": "are you okay?",
+    "assistant": "i am ready to chat. how are you?",
+    "group": 1
+  },
+  {
+    "user": "please are you okay",
+    "assistant": "i am ready to chat. how are you?",
+    "group": 1
+  },
+  {
+    "user": "are you okay",
+    "assistant": "i am doing well. what is on your mind?",
+    "group": 1
+  },
+  {
+    "user": "are you okay?",
+    "assistant": "i am doing well. what is on your mind?",
+    "group": 1
+  },
+  {
+    "user": "please are you okay",
+    "assistant": "i am doing well. what is on your mind?",
+    "group": 1
+  },
+  {
+    "user": "how do you feel",
+    "assistant": "i am ready to chat. how are you?",
+    "group": 1
+  },
+  {
+    "user": "how do you feel?",
+    "assistant": "i am ready to chat. how are you?",
+    "group": 1
+  },
+  {
+    "user": "please how do you feel",
+    "assistant": "i am ready to chat. how are you?",
+    "group": 1
+  },
+  {
+    "user": "how do you feel",
+    "assistant": "i am doing well. what is on your mind?",
+    "group": 1
+  },
+  {
+    "user": "how do you feel?",
+    "assistant": "i am doing well. what is on your mind?",
+    "group": 1
+  },
+  {
+    "user": "please how do you feel",
+    "assistant": "i am doing well. what is on your mind?",
+    "group": 1
+  },
+  {
+    "user": "how are things",
+    "assistant": "i am ready to chat. how are you?",
+    "group": 1
+  },
+  {
+    "user": "how are things?",
+    "assistant": "i am ready to chat. how are you?",
+    "group": 1
+  },
+  {
+    "user": "please how are things",
+    "assistant": "i am ready to chat. how are you?",
+    "group": 1
+  },
+  {
+    "user": "how are things",
+    "assistant": "i am doing well. what is on your mind?",
+    "group": 1
+  },
+  {
+    "user": "how are things?",
+    "assistant": "i am doing well. what is on your mind?",
+    "group": 1
+  },
+  {
+    "user": "please how are things",
+    "assistant": "i am doing well. what is on your mind?",
+    "group": 1
+  },
+  {
+    "user": "you doing alright",
+    "assistant": "i am ready to chat. how are you?",
+    "group": 1
+  },
+  {
+    "user": "you doing alright?",
+    "assistant": "i am ready to chat. how are you?",
+    "group": 1
+  },
+  {
+    "user": "please you doing alright",
+    "assistant": "i am ready to chat. how are you?",
+    "group": 1
+  },
+  {
+    "user": "you doing alright",
+    "assistant": "i am doing well. what is on your mind?",
+    "group": 1
+  },
+  {
+    "user": "you doing alright?",
+    "assistant": "i am doing well. what is on your mind?",
+    "group": 1
+  },
+  {
+    "user": "please you doing alright",
+    "assistant": "i am doing well. what is on your mind?",
+    "group": 1
+  },
+  {
+    "user": "what is your name",
+    "assistant": "i am tiny, a neural language model running on an esp8266.",
+    "group": 2
+  },
+  {
+    "user": "what is your name?",
+    "assistant": "i am tiny, a neural language model running on an esp8266.",
+    "group": 2
+  },
+  {
+    "user": "please what is your name",
+    "assistant": "i am tiny, a neural language model running on an esp8266.",
+    "group": 2
+  },
+  {
+    "user": "what is your name",
+    "assistant": "call me tiny. i am a small neural model on this board.",
+    "group": 2
+  },
+  {
+    "user": "what is your name?",
+    "assistant": "call me tiny. i am a small neural model on this board.",
+    "group": 2
+  },
+  {
+    "user": "please what is your name",
+    "assistant": "call me tiny. i am a small neural model on this board.",
+    "group": 2
+  },
+  {
+    "user": "who are you",
+    "assistant": "i am tiny, a neural language model running on an esp8266.",
+    "group": 2
+  },
+  {
+    "user": "who are you?",
+    "assistant": "i am tiny, a neural language model running on an esp8266.",
+    "group": 2
+  },
+  {
+    "user": "please who are you",
+    "assistant": "i am tiny, a neural language model running on an esp8266.",
+    "group": 2
+  },
+  {
+    "user": "who are you",
+    "assistant": "call me tiny. i am a small neural model on this board.",
+    "group": 2
+  },
+  {
+    "user": "who are you?",
+    "assistant": "call me tiny. i am a small neural model on this board.",
+    "group": 2
+  },
+  {
+    "user": "please who are you",
+    "assistant": "call me tiny. i am a small neural model on this board.",
+    "group": 2
+  },
+  {
+    "user": "introduce yourself",
+    "assistant": "i am tiny, a neural language model running on an esp8266.",
+    "group": 2
+  },
+  {
+    "user": "introduce yourself?",
+    "assistant": "i am tiny, a neural language model running on an esp8266.",
+    "group": 2
+  },
+  {
+    "user": "please introduce yourself",
+    "assistant": "i am tiny, a neural language model running on an esp8266.",
+    "group": 2
+  },
+  {
+    "user": "introduce yourself",
+    "assistant": "call me tiny. i am a small neural model on this board.",
+    "group": 2
+  },
+  {
+    "user": "introduce yourself?",
+    "assistant": "call me tiny. i am a small neural model on this board.",
+    "group": 2
+  },
+  {
+    "user": "please introduce yourself",
+    "assistant": "call me tiny. i am a small neural model on this board.",
+    "group": 2
+  },
+  {
+    "user": "tell me your name",
+    "assistant": "i am tiny, a neural language model running on an esp8266.",
+    "group": 2
+  },
+  {
+    "user": "tell me your name?",
+    "assistant": "i am tiny, a neural language model running on an esp8266.",
+    "group": 2
+  },
+  {
+    "user": "please tell me your name",
+    "assistant": "i am tiny, a neural language model running on an esp8266.",
+    "group": 2
+  },
+  {
+    "user": "tell me your name",
+    "assistant": "call me tiny. i am a small neural model on this board.",
+    "group": 2
+  },
+  {
+    "user": "tell me your name?",
+    "assistant": "call me tiny. i am a small neural model on this board.",
+    "group": 2
+  },
+  {
+    "user": "please tell me your name",
+    "assistant": "call me tiny. i am a small neural model on this board.",
+    "group": 2
+  },
+  {
+    "user": "do you have a name",
+    "assistant": "i am tiny, a neural language model running on an esp8266.",
+    "group": 2
+  },
+  {
+    "user": "do you have a name?",
+    "assistant": "i am tiny, a neural language model running on an esp8266.",
+    "group": 2
+  },
+  {
+    "user": "please do you have a name",
+    "assistant": "i am tiny, a neural language model running on an esp8266.",
+    "group": 2
+  },
+  {
+    "user": "do you have a name",
+    "assistant": "call me tiny. i am a small neural model on this board.",
+    "group": 2
+  },
+  {
+    "user": "do you have a name?",
+    "assistant": "call me tiny. i am a small neural model on this board.",
+    "group": 2
+  },
+  {
+    "user": "please do you have a name",
+    "assistant": "call me tiny. i am a small neural model on this board.",
+    "group": 2
+  },
+  {
+    "user": "what should i call you",
+    "assistant": "i am tiny, a neural language model running on an esp8266.",
+    "group": 2
+  },
+  {
+    "user": "what should i call you?",
+    "assistant": "i am tiny, a neural language model running on an esp8266.",
+    "group": 2
+  },
+  {
+    "user": "please what should i call you",
+    "assistant": "i am tiny, a neural language model running on an esp8266.",
+    "group": 2
+  },
+  {
+    "user": "what should i call you",
+    "assistant": "call me tiny. i am a small neural model on this board.",
+    "group": 2
+  },
+  {
+    "user": "what should i call you?",
+    "assistant": "call me tiny. i am a small neural model on this board.",
+    "group": 2
+  },
+  {
+    "user": "please what should i call you",
+    "assistant": "call me tiny. i am a small neural model on this board.",
+    "group": 2
+  },
+  {
+    "user": "what can you do",
+    "assistant": "i can try short replies about simple topics. i am still an experimental model.",
+    "group": 3
+  },
+  {
+    "user": "what can you do?",
+    "assistant": "i can try short replies about simple topics. i am still an experimental model.",
+    "group": 3
+  },
+  {
+    "user": "please what can you do",
+    "assistant": "i can try short replies about simple topics. i am still an experimental model.",
+    "group": 3
+  },
+  {
+    "user": "how can you help",
+    "assistant": "i can try short replies about simple topics. i am still an experimental model.",
+    "group": 3
+  },
+  {
+    "user": "how can you help?",
+    "assistant": "i can try short replies about simple topics. i am still an experimental model.",
+    "group": 3
+  },
+  {
+    "user": "please how can you help",
+    "assistant": "i can try short replies about simple topics. i am still an experimental model.",
+    "group": 3
+  },
+  {
+    "user": "what are your abilities",
+    "assistant": "i can try short replies about simple topics. i am still an experimental model.",
+    "group": 3
+  },
+  {
+    "user": "what are your abilities?",
+    "assistant": "i can try short replies about simple topics. i am still an experimental model.",
+    "group": 3
+  },
+  {
+    "user": "please what are your abilities",
+    "assistant": "i can try short replies about simple topics. i am still an experimental model.",
+    "group": 3
+  },
+  {
+    "user": "tell me what you can do",
+    "assistant": "i can try short replies about simple topics. i am still an experimental model.",
+    "group": 3
+  },
+  {
+    "user": "tell me what you can do?",
+    "assistant": "i can try short replies about simple topics. i am still an experimental model.",
+    "group": 3
+  },
+  {
+    "user": "please tell me what you can do",
+    "assistant": "i can try short replies about simple topics. i am still an experimental model.",
+    "group": 3
+  },
+  {
+    "user": "what do you do",
+    "assistant": "i can try short replies about simple topics. i am still an experimental model.",
+    "group": 3
+  },
+  {
+    "user": "what do you do?",
+    "assistant": "i can try short replies about simple topics. i am still an experimental model.",
+    "group": 3
+  },
+  {
+    "user": "please what do you do",
+    "assistant": "i can try short replies about simple topics. i am still an experimental model.",
+    "group": 3
+  },
+  {
+    "user": "where do you run",
+    "assistant": "my replies are generated on the esp8266 itself, with wi-fi off.",
+    "group": 4
+  },
+  {
+    "user": "where do you run?",
+    "assistant": "my replies are generated on the esp8266 itself, with wi-fi off.",
+    "group": 4
+  },
+  {
+    "user": "please where do you run",
+    "assistant": "my replies are generated on the esp8266 itself, with wi-fi off.",
+    "group": 4
+  },
+  {
+    "user": "where are you running",
+    "assistant": "my replies are generated on the esp8266 itself, with wi-fi off.",
+    "group": 4
+  },
+  {
+    "user": "where are you running?",
+    "assistant": "my replies are generated on the esp8266 itself, with wi-fi off.",
+    "group": 4
+  },
+  {
+    "user": "please where are you running",
+    "assistant": "my replies are generated on the esp8266 itself, with wi-fi off.",
+    "group": 4
+  },
+  {
+    "user": "are you on the board",
+    "assistant": "my replies are generated on the esp8266 itself, with wi-fi off.",
+    "group": 4
+  },
+  {
+    "user": "are you on the board?",
+    "assistant": "my replies are generated on the esp8266 itself, with wi-fi off.",
+    "group": 4
+  },
+  {
+    "user": "please are you on the board",
+    "assistant": "my replies are generated on the esp8266 itself, with wi-fi off.",
+    "group": 4
+  },
+  {
+    "user": "do you run on my laptop",
+    "assistant": "my replies are generated on the esp8266 itself, with wi-fi off.",
+    "group": 4
+  },
+  {
+    "user": "do you run on my laptop?",
+    "assistant": "my replies are generated on the esp8266 itself, with wi-fi off.",
+    "group": 4
+  },
+  {
+    "user": "please do you run on my laptop",
+    "assistant": "my replies are generated on the esp8266 itself, with wi-fi off.",
+    "group": 4
+  },
+  {
+    "user": "is this running locally",
+    "assistant": "my replies are generated on the esp8266 itself, with wi-fi off.",
+    "group": 4
+  },
+  {
+    "user": "is this running locally?",
+    "assistant": "my replies are generated on the esp8266 itself, with wi-fi off.",
+    "group": 4
+  },
+  {
+    "user": "please is this running locally",
+    "assistant": "my replies are generated on the esp8266 itself, with wi-fi off.",
+    "group": 4
+  },
+  {
+    "user": "are you really on the esp8266",
+    "assistant": "my replies are generated on the esp8266 itself, with wi-fi off.",
+    "group": 4
+  },
+  {
+    "user": "are you really on the esp8266?",
+    "assistant": "my replies are generated on the esp8266 itself, with wi-fi off.",
+    "group": 4
+  },
+  {
+    "user": "please are you really on the esp8266",
+    "assistant": "my replies are generated on the esp8266 itself, with wi-fi off.",
+    "group": 4
+  },
+  {
+    "user": "do you need internet",
+    "assistant": "i work offline. this board generates the reply without an internet connection.",
+    "group": 5
+  },
+  {
+    "user": "do you need internet?",
+    "assistant": "i work offline. this board generates the reply without an internet connection.",
+    "group": 5
+  },
+  {
+    "user": "please do you need internet",
+    "assistant": "i work offline. this board generates the reply without an internet connection.",
+    "group": 5
+  },
+  {
+    "user": "are you online",
+    "assistant": "i work offline. this board generates the reply without an internet connection.",
+    "group": 5
+  },
+  {
+    "user": "are you online?",
+    "assistant": "i work offline. this board generates the reply without an internet connection.",
+    "group": 5
+  },
+  {
+    "user": "please are you online",
+    "assistant": "i work offline. this board generates the reply without an internet connection.",
+    "group": 5
+  },
+  {
+    "user": "are you connected to the internet",
+    "assistant": "i work offline. this board generates the reply without an internet connection.",
+    "group": 5
+  },
+  {
+    "user": "are you connected to the internet?",
+    "assistant": "i work offline. this board generates the reply without an internet connection.",
+    "group": 5
+  },
+  {
+    "user": "please are you connected to the internet",
+    "assistant": "i work offline. this board generates the reply without an internet connection.",
+    "group": 5
+  },
+  {
+    "user": "can you work offline",
+    "assistant": "i work offline. this board generates the reply without an internet connection.",
+    "group": 5
+  },
+  {
+    "user": "can you work offline?",
+    "assistant": "i work offline. this board generates the reply without an internet connection.",
+    "group": 5
+  },
+  {
+    "user": "please can you work offline",
+    "assistant": "i work offline. this board generates the reply without an internet connection.",
+    "group": 5
+  },
+  {
+    "user": "do you use the cloud",
+    "assistant": "i work offline. this board generates the reply without an internet connection.",
+    "group": 5
+  },
+  {
+    "user": "do you use the cloud?",
+    "assistant": "i work offline. this board generates the reply without an internet connection.",
+    "group": 5
+  },
+  {
+    "user": "please do you use the cloud",
+    "assistant": "i work offline. this board generates the reply without an internet connection.",
+    "group": 5
+  },
+  {
+    "user": "is wifi needed",
+    "assistant": "i work offline. this board generates the reply without an internet connection.",
+    "group": 5
+  },
+  {
+    "user": "is wifi needed?",
+    "assistant": "i work offline. this board generates the reply without an internet connection.",
+    "group": 5
+  },
+  {
+    "user": "please is wifi needed",
+    "assistant": "i work offline. this board generates the reply without an internet connection.",
+    "group": 5
+  },
+  {
+    "user": "are you rule based",
+    "assistant": "a trained neural network predicts my reply one character at a time.",
+    "group": 6
+  },
+  {
+    "user": "are you rule based?",
+    "assistant": "a trained neural network predicts my reply one character at a time.",
+    "group": 6
+  },
+  {
+    "user": "please are you rule based",
+    "assistant": "a trained neural network predicts my reply one character at a time.",
+    "group": 6
+  },
+  {
+    "user": "are these scripted replies",
+    "assistant": "a trained neural network predicts my reply one character at a time.",
+    "group": 6
+  },
+  {
+    "user": "are these scripted replies?",
+    "assistant": "a trained neural network predicts my reply one character at a time.",
+    "group": 6
+  },
+  {
+    "user": "please are these scripted replies",
+    "assistant": "a trained neural network predicts my reply one character at a time.",
+    "group": 6
+  },
+  {
+    "user": "do you use rules",
+    "assistant": "a trained neural network predicts my reply one character at a time.",
+    "group": 6
+  },
+  {
+    "user": "do you use rules?",
+    "assistant": "a trained neural network predicts my reply one character at a time.",
+    "group": 6
+  },
+  {
+    "user": "please do you use rules",
+    "assistant": "a trained neural network predicts my reply one character at a time.",
+    "group": 6
+  },
+  {
+    "user": "are you a neural network",
+    "assistant": "a trained neural network predicts my reply one character at a time.",
+    "group": 6
+  },
+  {
+    "user": "are you a neural network?",
+    "assistant": "a trained neural network predicts my reply one character at a time.",
+    "group": 6
+  },
+  {
+    "user": "please are you a neural network",
+    "assistant": "a trained neural network predicts my reply one character at a time.",
+    "group": 6
+  },
+  {
+    "user": "how do you choose a reply",
+    "assistant": "a trained neural network predicts my reply one character at a time.",
+    "group": 6
+  },
+  {
+    "user": "how do you choose a reply?",
+    "assistant": "a trained neural network predicts my reply one character at a time.",
+    "group": 6
+  },
+  {
+    "user": "please how do you choose a reply",
+    "assistant": "a trained neural network predicts my reply one character at a time.",
+    "group": 6
+  },
+  {
+    "user": "how were you trained",
+    "assistant": "i was trained on a computer. my learned weights are stored on this board.",
+    "group": 7
+  },
+  {
+    "user": "how were you trained?",
+    "assistant": "i was trained on a computer. my learned weights are stored on this board.",
+    "group": 7
+  },
+  {
+    "user": "please how were you trained",
+    "assistant": "i was trained on a computer. my learned weights are stored on this board.",
+    "group": 7
+  },
+  {
+    "user": "how do you learn",
+    "assistant": "i was trained on a computer. my learned weights are stored on this board.",
+    "group": 7
+  },
+  {
+    "user": "how do you learn?",
+    "assistant": "i was trained on a computer. my learned weights are stored on this board.",
+    "group": 7
+  },
+  {
+    "user": "please how do you learn",
+    "assistant": "i was trained on a computer. my learned weights are stored on this board.",
+    "group": 7
+  },
+  {
+    "user": "where were you trained",
+    "assistant": "i was trained on a computer. my learned weights are stored on this board.",
+    "group": 7
+  },
+  {
+    "user": "where were you trained?",
+    "assistant": "i was trained on a computer. my learned weights are stored on this board.",
+    "group": 7
+  },
+  {
+    "user": "please where were you trained",
+    "assistant": "i was trained on a computer. my learned weights are stored on this board.",
+    "group": 7
+  },
+  {
+    "user": "can you learn on the board",
+    "assistant": "i was trained on a computer. my learned weights are stored on this board.",
+    "group": 7
+  },
+  {
+    "user": "can you learn on the board?",
+    "assistant": "i was trained on a computer. my learned weights are stored on this board.",
+    "group": 7
+  },
+  {
+    "user": "please can you learn on the board",
+    "assistant": "i was trained on a computer. my learned weights are stored on this board.",
+    "group": 7
+  },
+  {
+    "user": "how does training work",
+    "assistant": "i was trained on a computer. my learned weights are stored on this board.",
+    "group": 7
+  },
+  {
+    "user": "how does training work?",
+    "assistant": "i was trained on a computer. my learned weights are stored on this board.",
+    "group": 7
+  },
+  {
+    "user": "please how does training work",
+    "assistant": "i was trained on a computer. my learned weights are stored on this board.",
+    "group": 7
+  },
+  {
+    "user": "what is an esp8266",
+    "assistant": "the esp8266 is a small microcontroller with wi-fi and limited memory.",
+    "group": 8
+  },
+  {
+    "user": "what is an esp8266?",
+    "assistant": "the esp8266 is a small microcontroller with wi-fi and limited memory.",
+    "group": 8
+  },
+  {
+    "user": "please what is an esp8266",
+    "assistant": "the esp8266 is a small microcontroller with wi-fi and limited memory.",
+    "group": 8
+  },
+  {
+    "user": "tell me about the esp8266",
+    "assistant": "the esp8266 is a small microcontroller with wi-fi and limited memory.",
+    "group": 8
+  },
+  {
+    "user": "tell me about the esp8266?",
+    "assistant": "the esp8266 is a small microcontroller with wi-fi and limited memory.",
+    "group": 8
+  },
+  {
+    "user": "please tell me about the esp8266",
+    "assistant": "the esp8266 is a small microcontroller with wi-fi and limited memory.",
+    "group": 8
+  },
+  {
+    "user": "explain esp8266",
+    "assistant": "the esp8266 is a small microcontroller with wi-fi and limited memory.",
+    "group": 8
+  },
+  {
+    "user": "explain esp8266?",
+    "assistant": "the esp8266 is a small microcontroller with wi-fi and limited memory.",
+    "group": 8
+  },
+  {
+    "user": "please explain esp8266",
+    "assistant": "the esp8266 is a small microcontroller with wi-fi and limited memory.",
+    "group": 8
+  },
+  {
+    "user": "describe the esp8266",
+    "assistant": "the esp8266 is a small microcontroller with wi-fi and limited memory.",
+    "group": 8
+  },
+  {
+    "user": "describe the esp8266?",
+    "assistant": "the esp8266 is a small microcontroller with wi-fi and limited memory.",
+    "group": 8
+  },
+  {
+    "user": "please describe the esp8266",
+    "assistant": "the esp8266 is a small microcontroller with wi-fi and limited memory.",
+    "group": 8
+  },
+  {
+    "user": "what kind of chip is this",
+    "assistant": "the esp8266 is a small microcontroller with wi-fi and limited memory.",
+    "group": 8
+  },
+  {
+    "user": "what kind of chip is this?",
+    "assistant": "the esp8266 is a small microcontroller with wi-fi and limited memory.",
+    "group": 8
+  },
+  {
+    "user": "please what kind of chip is this",
+    "assistant": "the esp8266 is a small microcontroller with wi-fi and limited memory.",
+    "group": 8
+  },
+  {
+    "user": "what is a microcontroller",
+    "assistant": "a microcontroller is a small computer used to control electronic devices.",
+    "group": 9
+  },
+  {
+    "user": "what is a microcontroller?",
+    "assistant": "a microcontroller is a small computer used to control electronic devices.",
+    "group": 9
+  },
+  {
+    "user": "please what is a microcontroller",
+    "assistant": "a microcontroller is a small computer used to control electronic devices.",
+    "group": 9
+  },
+  {
+    "user": "explain microcontrollers",
+    "assistant": "a microcontroller is a small computer used to control electronic devices.",
+    "group": 9
+  },
+  {
+    "user": "explain microcontrollers?",
+    "assistant": "a microcontroller is a small computer used to control electronic devices.",
+    "group": 9
+  },
+  {
+    "user": "please explain microcontrollers",
+    "assistant": "a microcontroller is a small computer used to control electronic devices.",
+    "group": 9
+  },
+  {
+    "user": "what does a microcontroller do",
+    "assistant": "a microcontroller is a small computer used to control electronic devices.",
+    "group": 9
+  },
+  {
+    "user": "what does a microcontroller do?",
+    "assistant": "a microcontroller is a small computer used to control electronic devices.",
+    "group": 9
+  },
+  {
+    "user": "please what does a microcontroller do",
+    "assistant": "a microcontroller is a small computer used to control electronic devices.",
+    "group": 9
+  },
+  {
+    "user": "describe a microcontroller",
+    "assistant": "a microcontroller is a small computer used to control electronic devices.",
+    "group": 9
+  },
+  {
+    "user": "describe a microcontroller?",
+    "assistant": "a microcontroller is a small computer used to control electronic devices.",
+    "group": 9
+  },
+  {
+    "user": "please describe a microcontroller",
+    "assistant": "a microcontroller is a small computer used to control electronic devices.",
+    "group": 9
+  },
+  {
+    "user": "what is ram",
+    "assistant": "ram holds temporary data while a program is running.",
+    "group": 10
+  },
+  {
+    "user": "what is ram?",
+    "assistant": "ram holds temporary data while a program is running.",
+    "group": 10
+  },
+  {
+    "user": "please what is ram",
+    "assistant": "ram holds temporary data while a program is running.",
+    "group": 10
+  },
+  {
+    "user": "explain ram",
+    "assistant": "ram holds temporary data while a program is running.",
+    "group": 10
+  },
+  {
+    "user": "explain ram?",
+    "assistant": "ram holds temporary data while a program is running.",
+    "group": 10
+  },
+  {
+    "user": "please explain ram",
+    "assistant": "ram holds temporary data while a program is running.",
+    "group": 10
+  },
+  {
+    "user": "what does ram do",
+    "assistant": "ram holds temporary data while a program is running.",
+    "group": 10
+  },
+  {
+    "user": "what does ram do?",
+    "assistant": "ram holds temporary data while a program is running.",
+    "group": 10
+  },
+  {
+    "user": "please what does ram do",
+    "assistant": "ram holds temporary data while a program is running.",
+    "group": 10
+  },
+  {
+    "user": "what is working memory",
+    "assistant": "ram holds temporary data while a program is running.",
+    "group": 10
+  },
+  {
+    "user": "what is working memory?",
+    "assistant": "ram holds temporary data while a program is running.",
+    "group": 10
+  },
+  {
+    "user": "please what is working memory",
+    "assistant": "ram holds temporary data while a program is running.",
+    "group": 10
+  },
+  {
+    "user": "why do we need ram",
+    "assistant": "ram holds temporary data while a program is running.",
+    "group": 10
+  },
+  {
+    "user": "why do we need ram?",
+    "assistant": "ram holds temporary data while a program is running.",
+    "group": 10
+  },
+  {
+    "user": "please why do we need ram",
+    "assistant": "ram holds temporary data while a program is running.",
+    "group": 10
+  },
+  {
+    "user": "what is flash memory",
+    "assistant": "flash memory keeps programs and data even when the power is off.",
+    "group": 11
+  },
+  {
+    "user": "what is flash memory?",
+    "assistant": "flash memory keeps programs and data even when the power is off.",
+    "group": 11
+  },
+  {
+    "user": "please what is flash memory",
+    "assistant": "flash memory keeps programs and data even when the power is off.",
+    "group": 11
+  },
+  {
+    "user": "explain flash",
+    "assistant": "flash memory keeps programs and data even when the power is off.",
+    "group": 11
+  },
+  {
+    "user": "explain flash?",
+    "assistant": "flash memory keeps programs and data even when the power is off.",
+    "group": 11
+  },
+  {
+    "user": "please explain flash",
+    "assistant": "flash memory keeps programs and data even when the power is off.",
+    "group": 11
+  },
+  {
+    "user": "what is flash storage",
+    "assistant": "flash memory keeps programs and data even when the power is off.",
+    "group": 11
+  },
+  {
+    "user": "what is flash storage?",
+    "assistant": "flash memory keeps programs and data even when the power is off.",
+    "group": 11
+  },
+  {
+    "user": "please what is flash storage",
+    "assistant": "flash memory keeps programs and data even when the power is off.",
+    "group": 11
+  },
+  {
+    "user": "what does flash memory store",
+    "assistant": "flash memory keeps programs and data even when the power is off.",
+    "group": 11
+  },
+  {
+    "user": "what does flash memory store?",
+    "assistant": "flash memory keeps programs and data even when the power is off.",
+    "group": 11
+  },
+  {
+    "user": "please what does flash memory store",
+    "assistant": "flash memory keeps programs and data even when the power is off.",
+    "group": 11
+  },
+  {
+    "user": "what is the difference between ram and flash",
+    "assistant": "ram is temporary working memory. flash keeps data when power is off.",
+    "group": 12
+  },
+  {
+    "user": "what is the difference between ram and flash?",
+    "assistant": "ram is temporary working memory. flash keeps data when power is off.",
+    "group": 12
+  },
+  {
+    "user": "please what is the difference between ram and flash",
+    "assistant": "ram is temporary working memory. flash keeps data when power is off.",
+    "group": 12
+  },
+  {
+    "user": "compare ram and flash",
+    "assistant": "ram is temporary working memory. flash keeps data when power is off.",
+    "group": 12
+  },
+  {
+    "user": "compare ram and flash?",
+    "assistant": "ram is temporary working memory. flash keeps data when power is off.",
+    "group": 12
+  },
+  {
+    "user": "please compare ram and flash",
+    "assistant": "ram is temporary working memory. flash keeps data when power is off.",
+    "group": 12
+  },
+  {
+    "user": "ram vs flash",
+    "assistant": "ram is temporary working memory. flash keeps data when power is off.",
+    "group": 12
+  },
+  {
+    "user": "ram vs flash?",
+    "assistant": "ram is temporary working memory. flash keeps data when power is off.",
+    "group": 12
+  },
+  {
+    "user": "please ram vs flash",
+    "assistant": "ram is temporary working memory. flash keeps data when power is off.",
+    "group": 12
+  },
+  {
+    "user": "how are ram and flash different",
+    "assistant": "ram is temporary working memory. flash keeps data when power is off.",
+    "group": 12
+  },
+  {
+    "user": "how are ram and flash different?",
+    "assistant": "ram is temporary working memory. flash keeps data when power is off.",
+    "group": 12
+  },
+  {
+    "user": "please how are ram and flash different",
+    "assistant": "ram is temporary working memory. flash keeps data when power is off.",
+    "group": 12
+  },
+  {
+    "user": "what is wifi",
+    "assistant": "wi-fi connects devices over a wireless network.",
+    "group": 13
+  },
+  {
+    "user": "what is wifi?",
+    "assistant": "wi-fi connects devices over a wireless network.",
+    "group": 13
+  },
+  {
+    "user": "please what is wifi",
+    "assistant": "wi-fi connects devices over a wireless network.",
+    "group": 13
+  },
+  {
+    "user": "explain wi-fi",
+    "assistant": "wi-fi connects devices over a wireless network.",
+    "group": 13
+  },
+  {
+    "user": "explain wi-fi?",
+    "assistant": "wi-fi connects devices over a wireless network.",
+    "group": 13
+  },
+  {
+    "user": "please explain wi-fi",
+    "assistant": "wi-fi connects devices over a wireless network.",
+    "group": 13
+  },
+  {
+    "user": "how does wifi work",
+    "assistant": "wi-fi connects devices over a wireless network.",
+    "group": 13
+  },
+  {
+    "user": "how does wifi work?",
+    "assistant": "wi-fi connects devices over a wireless network.",
+    "group": 13
+  },
+  {
+    "user": "please how does wifi work",
+    "assistant": "wi-fi connects devices over a wireless network.",
+    "group": 13
+  },
+  {
+    "user": "what does wi-fi do",
+    "assistant": "wi-fi connects devices over a wireless network.",
+    "group": 13
+  },
+  {
+    "user": "what does wi-fi do?",
+    "assistant": "wi-fi connects devices over a wireless network.",
+    "group": 13
+  },
+  {
+    "user": "please what does wi-fi do",
+    "assistant": "wi-fi connects devices over a wireless network.",
+    "group": 13
+  },
+  {
+    "user": "tell me about wifi",
+    "assistant": "wi-fi connects devices over a wireless network.",
+    "group": 13
+  },
+  {
+    "user": "tell me about wifi?",
+    "assistant": "wi-fi connects devices over a wireless network.",
+    "group": 13
+  },
+  {
+    "user": "please tell me about wifi",
+    "assistant": "wi-fi connects devices over a wireless network.",
+    "group": 13
+  },
+  {
+    "user": "what is a led",
+    "assistant": "an led is a light emitting diode. it produces light when current flows through it.",
+    "group": 14
+  },
+  {
+    "user": "what is a led?",
+    "assistant": "an led is a light emitting diode. it produces light when current flows through it.",
+    "group": 14
+  },
+  {
+    "user": "please what is a led",
+    "assistant": "an led is a light emitting diode. it produces light when current flows through it.",
+    "group": 14
+  },
+  {
+    "user": "what is an led",
+    "assistant": "an led is a light emitting diode. it produces light when current flows through it.",
+    "group": 14
+  },
+  {
+    "user": "what is an led?",
+    "assistant": "an led is a light emitting diode. it produces light when current flows through it.",
+    "group": 14
+  },
+  {
+    "user": "please what is an led",
+    "assistant": "an led is a light emitting diode. it produces light when current flows through it.",
+    "group": 14
+  },
+  {
+    "user": "explain led",
+    "assistant": "an led is a light emitting diode. it produces light when current flows through it.",
+    "group": 14
+  },
+  {
+    "user": "explain led?",
+    "assistant": "an led is a light emitting diode. it produces light when current flows through it.",
+    "group": 14
+  },
+  {
+    "user": "please explain led",
+    "assistant": "an led is a light emitting diode. it produces light when current flows through it.",
+    "group": 14
+  },
+  {
+    "user": "what does led mean",
+    "assistant": "an led is a light emitting diode. it produces light when current flows through it.",
+    "group": 14
+  },
+  {
+    "user": "what does led mean?",
+    "assistant": "an led is a light emitting diode. it produces light when current flows through it.",
+    "group": 14
+  },
+  {
+    "user": "please what does led mean",
+    "assistant": "an led is a light emitting diode. it produces light when current flows through it.",
+    "group": 14
+  },
+  {
+    "user": "tell me about leds",
+    "assistant": "an led is a light emitting diode. it produces light when current flows through it.",
+    "group": 14
+  },
+  {
+    "user": "tell me about leds?",
+    "assistant": "an led is a light emitting diode. it produces light when current flows through it.",
+    "group": 14
+  },
+  {
+    "user": "please tell me about leds",
+    "assistant": "an led is a light emitting diode. it produces light when current flows through it.",
+    "group": 14
+  },
+  {
+    "user": "how do i blink an led",
+    "assistant": "set the led pin as an output, then alternate high and low with a delay.",
+    "group": 15
+  },
+  {
+    "user": "how do i blink an led?",
+    "assistant": "set the led pin as an output, then alternate high and low with a delay.",
+    "group": 15
+  },
+  {
+    "user": "please how do i blink an led",
+    "assistant": "set the led pin as an output, then alternate high and low with a delay.",
+    "group": 15
+  },
+  {
+    "user": "how can i blink the led",
+    "assistant": "set the led pin as an output, then alternate high and low with a delay.",
+    "group": 15
+  },
+  {
+    "user": "how can i blink the led?",
+    "assistant": "set the led pin as an output, then alternate high and low with a delay.",
+    "group": 15
+  },
+  {
+    "user": "please how can i blink the led",
+    "assistant": "set the led pin as an output, then alternate high and low with a delay.",
+    "group": 15
+  },
+  {
+    "user": "make an led blink",
+    "assistant": "set the led pin as an output, then alternate high and low with a delay.",
+    "group": 15
+  },
+  {
+    "user": "make an led blink?",
+    "assistant": "set the led pin as an output, then alternate high and low with a delay.",
+    "group": 15
+  },
+  {
+    "user": "please make an led blink",
+    "assistant": "set the led pin as an output, then alternate high and low with a delay.",
+    "group": 15
+  },
+  {
+    "user": "explain led blinking",
+    "assistant": "set the led pin as an output, then alternate high and low with a delay.",
+    "group": 15
+  },
+  {
+    "user": "explain led blinking?",
+    "assistant": "set the led pin as an output, then alternate high and low with a delay.",
+    "group": 15
+  },
+  {
+    "user": "please explain led blinking",
+    "assistant": "set the led pin as an output, then alternate high and low with a delay.",
+    "group": 15
+  },
+  {
+    "user": "how does the led blink",
+    "assistant": "set the led pin as an output, then alternate high and low with a delay.",
+    "group": 15
+  },
+  {
+    "user": "how does the led blink?",
+    "assistant": "set the led pin as an output, then alternate high and low with a delay.",
+    "group": 15
+  },
+  {
+    "user": "please how does the led blink",
+    "assistant": "set the led pin as an output, then alternate high and low with a delay.",
+    "group": 15
+  },
+  {
+    "user": "what is gpio",
+    "assistant": "gpio means general purpose input and output. these pins read or control signals.",
+    "group": 16
+  },
+  {
+    "user": "what is gpio?",
+    "assistant": "gpio means general purpose input and output. these pins read or control signals.",
+    "group": 16
+  },
+  {
+    "user": "please what is gpio",
+    "assistant": "gpio means general purpose input and output. these pins read or control signals.",
+    "group": 16
+  },
+  {
+    "user": "explain gpio",
+    "assistant": "gpio means general purpose input and output. these pins read or control signals.",
+    "group": 16
+  },
+  {
+    "user": "explain gpio?",
+    "assistant": "gpio means general purpose input and output. these pins read or control signals.",
+    "group": 16
+  },
+  {
+    "user": "please explain gpio",
+    "assistant": "gpio means general purpose input and output. these pins read or control signals.",
+    "group": 16
+  },
+  {
+    "user": "what are gpio pins",
+    "assistant": "gpio means general purpose input and output. these pins read or control signals.",
+    "group": 16
+  },
+  {
+    "user": "what are gpio pins?",
+    "assistant": "gpio means general purpose input and output. these pins read or control signals.",
+    "group": 16
+  },
+  {
+    "user": "please what are gpio pins",
+    "assistant": "gpio means general purpose input and output. these pins read or control signals.",
+    "group": 16
+  },
+  {
+    "user": "what does gpio mean",
+    "assistant": "gpio means general purpose input and output. these pins read or control signals.",
+    "group": 16
+  },
+  {
+    "user": "what does gpio mean?",
+    "assistant": "gpio means general purpose input and output. these pins read or control signals.",
+    "group": 16
+  },
+  {
+    "user": "please what does gpio mean",
+    "assistant": "gpio means general purpose input and output. these pins read or control signals.",
+    "group": 16
+  },
+  {
+    "user": "what is a resistor",
+    "assistant": "a resistor limits electric current in a circuit.",
+    "group": 17
+  },
+  {
+    "user": "what is a resistor?",
+    "assistant": "a resistor limits electric current in a circuit.",
+    "group": 17
+  },
+  {
+    "user": "please what is a resistor",
+    "assistant": "a resistor limits electric current in a circuit.",
+    "group": 17
+  },
+  {
+    "user": "explain resistors",
+    "assistant": "a resistor limits electric current in a circuit.",
+    "group": 17
+  },
+  {
+    "user": "explain resistors?",
+    "assistant": "a resistor limits electric current in a circuit.",
+    "group": 17
+  },
+  {
+    "user": "please explain resistors",
+    "assistant": "a resistor limits electric current in a circuit.",
+    "group": 17
+  },
+  {
+    "user": "what does a resistor do",
+    "assistant": "a resistor limits electric current in a circuit.",
+    "group": 17
+  },
+  {
+    "user": "what does a resistor do?",
+    "assistant": "a resistor limits electric current in a circuit.",
+    "group": 17
+  },
+  {
+    "user": "please what does a resistor do",
+    "assistant": "a resistor limits electric current in a circuit.",
+    "group": 17
+  },
+  {
+    "user": "why use a resistor",
+    "assistant": "a resistor limits electric current in a circuit.",
+    "group": 17
+  },
+  {
+    "user": "why use a resistor?",
+    "assistant": "a resistor limits electric current in a circuit.",
+    "group": 17
+  },
+  {
+    "user": "please why use a resistor",
+    "assistant": "a resistor limits electric current in a circuit.",
+    "group": 17
+  },
+  {
+    "user": "what is voltage",
+    "assistant": "voltage is the electric potential difference between two points.",
+    "group": 18
+  },
+  {
+    "user": "what is voltage?",
+    "assistant": "voltage is the electric potential difference between two points.",
+    "group": 18
+  },
+  {
+    "user": "please what is voltage",
+    "assistant": "voltage is the electric potential difference between two points.",
+    "group": 18
+  },
+  {
+    "user": "explain voltage",
+    "assistant": "voltage is the electric potential difference between two points.",
+    "group": 18
+  },
+  {
+    "user": "explain voltage?",
+    "assistant": "voltage is the electric potential difference between two points.",
+    "group": 18
+  },
+  {
+    "user": "please explain voltage",
+    "assistant": "voltage is the electric potential difference between two points.",
+    "group": 18
+  },
+  {
+    "user": "what does voltage mean",
+    "assistant": "voltage is the electric potential difference between two points.",
+    "group": 18
+  },
+  {
+    "user": "what does voltage mean?",
+    "assistant": "voltage is the electric potential difference between two points.",
+    "group": 18
+  },
+  {
+    "user": "please what does voltage mean",
+    "assistant": "voltage is the electric potential difference between two points.",
+    "group": 18
+  },
+  {
+    "user": "define voltage",
+    "assistant": "voltage is the electric potential difference between two points.",
+    "group": 18
+  },
+  {
+    "user": "define voltage?",
+    "assistant": "voltage is the electric potential difference between two points.",
+    "group": 18
+  },
+  {
+    "user": "please define voltage",
+    "assistant": "voltage is the electric potential difference between two points.",
+    "group": 18
+  },
+  {
+    "user": "what is current",
+    "assistant": "electric current is the flow of electric charge.",
+    "group": 19
+  },
+  {
+    "user": "what is current?",
+    "assistant": "electric current is the flow of electric charge.",
+    "group": 19
+  },
+  {
+    "user": "please what is current",
+    "assistant": "electric current is the flow of electric charge.",
+    "group": 19
+  },
+  {
+    "user": "explain electric current",
+    "assistant": "electric current is the flow of electric charge.",
+    "group": 19
+  },
+  {
+    "user": "explain electric current?",
+    "assistant": "electric current is the flow of electric charge.",
+    "group": 19
+  },
+  {
+    "user": "please explain electric current",
+    "assistant": "electric current is the flow of electric charge.",
+    "group": 19
+  },
+  {
+    "user": "what does current mean",
+    "assistant": "electric current is the flow of electric charge.",
+    "group": 19
+  },
+  {
+    "user": "what does current mean?",
+    "assistant": "electric current is the flow of electric charge.",
+    "group": 19
+  },
+  {
+    "user": "please what does current mean",
+    "assistant": "electric current is the flow of electric charge.",
+    "group": 19
+  },
+  {
+    "user": "define electric current",
+    "assistant": "electric current is the flow of electric charge.",
+    "group": 19
+  },
+  {
+    "user": "define electric current?",
+    "assistant": "electric current is the flow of electric charge.",
+    "group": 19
+  },
+  {
+    "user": "please define electric current",
+    "assistant": "electric current is the flow of electric charge.",
+    "group": 19
+  },
+  {
+    "user": "what is a sensor",
+    "assistant": "a sensor measures something in the physical world, such as light or temperature.",
+    "group": 20
+  },
+  {
+    "user": "what is a sensor?",
+    "assistant": "a sensor measures something in the physical world, such as light or temperature.",
+    "group": 20
+  },
+  {
+    "user": "please what is a sensor",
+    "assistant": "a sensor measures something in the physical world, such as light or temperature.",
+    "group": 20
+  },
+  {
+    "user": "explain sensors",
+    "assistant": "a sensor measures something in the physical world, such as light or temperature.",
+    "group": 20
+  },
+  {
+    "user": "explain sensors?",
+    "assistant": "a sensor measures something in the physical world, such as light or temperature.",
+    "group": 20
+  },
+  {
+    "user": "please explain sensors",
+    "assistant": "a sensor measures something in the physical world, such as light or temperature.",
+    "group": 20
+  },
+  {
+    "user": "what does a sensor do",
+    "assistant": "a sensor measures something in the physical world, such as light or temperature.",
+    "group": 20
+  },
+  {
+    "user": "what does a sensor do?",
+    "assistant": "a sensor measures something in the physical world, such as light or temperature.",
+    "group": 20
+  },
+  {
+    "user": "please what does a sensor do",
+    "assistant": "a sensor measures something in the physical world, such as light or temperature.",
+    "group": 20
+  },
+  {
+    "user": "why use a sensor",
+    "assistant": "a sensor measures something in the physical world, such as light or temperature.",
+    "group": 20
+  },
+  {
+    "user": "why use a sensor?",
+    "assistant": "a sensor measures something in the physical world, such as light or temperature.",
+    "group": 20
+  },
+  {
+    "user": "please why use a sensor",
+    "assistant": "a sensor measures something in the physical world, such as light or temperature.",
+    "group": 20
+  },
+  {
+    "user": "what is a neural network",
+    "assistant": "a neural network learns patterns by adjusting weights during training.",
+    "group": 21
+  },
+  {
+    "user": "what is a neural network?",
+    "assistant": "a neural network learns patterns by adjusting weights during training.",
+    "group": 21
+  },
+  {
+    "user": "please what is a neural network",
+    "assistant": "a neural network learns patterns by adjusting weights during training.",
+    "group": 21
+  },
+  {
+    "user": "explain neural networks",
+    "assistant": "a neural network learns patterns by adjusting weights during training.",
+    "group": 21
+  },
+  {
+    "user": "explain neural networks?",
+    "assistant": "a neural network learns patterns by adjusting weights during training.",
+    "group": 21
+  },
+  {
+    "user": "please explain neural networks",
+    "assistant": "a neural network learns patterns by adjusting weights during training.",
+    "group": 21
+  },
+  {
+    "user": "how does a neural network work",
+    "assistant": "a neural network learns patterns by adjusting weights during training.",
+    "group": 21
+  },
+  {
+    "user": "how does a neural network work?",
+    "assistant": "a neural network learns patterns by adjusting weights during training.",
+    "group": 21
+  },
+  {
+    "user": "please how does a neural network work",
+    "assistant": "a neural network learns patterns by adjusting weights during training.",
+    "group": 21
+  },
+  {
+    "user": "define neural network",
+    "assistant": "a neural network learns patterns by adjusting weights during training.",
+    "group": 21
+  },
+  {
+    "user": "define neural network?",
+    "assistant": "a neural network learns patterns by adjusting weights during training.",
+    "group": 21
+  },
+  {
+    "user": "please define neural network",
+    "assistant": "a neural network learns patterns by adjusting weights during training.",
+    "group": 21
+  },
+  {
+    "user": "what is a language model",
+    "assistant": "a language model learns patterns in text and predicts what comes next.",
+    "group": 22
+  },
+  {
+    "user": "what is a language model?",
+    "assistant": "a language model learns patterns in text and predicts what comes next.",
+    "group": 22
+  },
+  {
+    "user": "please what is a language model",
+    "assistant": "a language model learns patterns in text and predicts what comes next.",
+    "group": 22
+  },
+  {
+    "user": "explain language models",
+    "assistant": "a language model learns patterns in text and predicts what comes next.",
+    "group": 22
+  },
+  {
+    "user": "explain language models?",
+    "assistant": "a language model learns patterns in text and predicts what comes next.",
+    "group": 22
+  },
+  {
+    "user": "please explain language models",
+    "assistant": "a language model learns patterns in text and predicts what comes next.",
+    "group": 22
+  },
+  {
+    "user": "how does a language model work",
+    "assistant": "a language model learns patterns in text and predicts what comes next.",
+    "group": 22
+  },
+  {
+    "user": "how does a language model work?",
+    "assistant": "a language model learns patterns in text and predicts what comes next.",
+    "group": 22
+  },
+  {
+    "user": "please how does a language model work",
+    "assistant": "a language model learns patterns in text and predicts what comes next.",
+    "group": 22
+  },
+  {
+    "user": "define language model",
+    "assistant": "a language model learns patterns in text and predicts what comes next.",
+    "group": 22
+  },
+  {
+    "user": "define language model?",
+    "assistant": "a language model learns patterns in text and predicts what comes next.",
+    "group": 22
+  },
+  {
+    "user": "please define language model",
+    "assistant": "a language model learns patterns in text and predicts what comes next.",
+    "group": 22
+  },
+  {
+    "user": "what is a gru",
+    "assistant": "a gru is a recurrent neural network that updates a hidden state as it reads a sequence.",
+    "group": 23
+  },
+  {
+    "user": "what is a gru?",
+    "assistant": "a gru is a recurrent neural network that updates a hidden state as it reads a sequence.",
+    "group": 23
+  },
+  {
+    "user": "please what is a gru",
+    "assistant": "a gru is a recurrent neural network that updates a hidden state as it reads a sequence.",
+    "group": 23
+  },
+  {
+    "user": "explain gru",
+    "assistant": "a gru is a recurrent neural network that updates a hidden state as it reads a sequence.",
+    "group": 23
+  },
+  {
+    "user": "explain gru?",
+    "assistant": "a gru is a recurrent neural network that updates a hidden state as it reads a sequence.",
+    "group": 23
+  },
+  {
+    "user": "please explain gru",
+    "assistant": "a gru is a recurrent neural network that updates a hidden state as it reads a sequence.",
+    "group": 23
+  },
+  {
+    "user": "what does gru mean",
+    "assistant": "a gru is a recurrent neural network that updates a hidden state as it reads a sequence.",
+    "group": 23
+  },
+  {
+    "user": "what does gru mean?",
+    "assistant": "a gru is a recurrent neural network that updates a hidden state as it reads a sequence.",
+    "group": 23
+  },
+  {
+    "user": "please what does gru mean",
+    "assistant": "a gru is a recurrent neural network that updates a hidden state as it reads a sequence.",
+    "group": 23
+  },
+  {
+    "user": "what is a recurrent network",
+    "assistant": "a gru is a recurrent neural network that updates a hidden state as it reads a sequence.",
+    "group": 23
+  },
+  {
+    "user": "what is a recurrent network?",
+    "assistant": "a gru is a recurrent neural network that updates a hidden state as it reads a sequence.",
+    "group": 23
+  },
+  {
+    "user": "please what is a recurrent network",
+    "assistant": "a gru is a recurrent neural network that updates a hidden state as it reads a sequence.",
+    "group": 23
+  },
+  {
+    "user": "what is quantization",
+    "assistant": "quantization stores weights with fewer bits to reduce memory use.",
+    "group": 24
+  },
+  {
+    "user": "what is quantization?",
+    "assistant": "quantization stores weights with fewer bits to reduce memory use.",
+    "group": 24
+  },
+  {
+    "user": "please what is quantization",
+    "assistant": "quantization stores weights with fewer bits to reduce memory use.",
+    "group": 24
+  },
+  {
+    "user": "explain quantization",
+    "assistant": "quantization stores weights with fewer bits to reduce memory use.",
+    "group": 24
+  },
+  {
+    "user": "explain quantization?",
+    "assistant": "quantization stores weights with fewer bits to reduce memory use.",
+    "group": 24
+  },
+  {
+    "user": "please explain quantization",
+    "assistant": "quantization stores weights with fewer bits to reduce memory use.",
+    "group": 24
+  },
+  {
+    "user": "why compress the model",
+    "assistant": "quantization stores weights with fewer bits to reduce memory use.",
+    "group": 24
+  },
+  {
+    "user": "why compress the model?",
+    "assistant": "quantization stores weights with fewer bits to reduce memory use.",
+    "group": 24
+  },
+  {
+    "user": "please why compress the model",
+    "assistant": "quantization stores weights with fewer bits to reduce memory use.",
+    "group": 24
+  },
+  {
+    "user": "why use eight bit weights",
+    "assistant": "quantization stores weights with fewer bits to reduce memory use.",
+    "group": 24
+  },
+  {
+    "user": "why use eight bit weights?",
+    "assistant": "quantization stores weights with fewer bits to reduce memory use.",
+    "group": 24
+  },
+  {
+    "user": "please why use eight bit weights",
+    "assistant": "quantization stores weights with fewer bits to reduce memory use.",
+    "group": 24
+  },
+  {
+    "user": "what are model weights",
+    "assistant": "weights are learned numbers that control how a neural network processes its input.",
+    "group": 25
+  },
+  {
+    "user": "what are model weights?",
+    "assistant": "weights are learned numbers that control how a neural network processes its input.",
+    "group": 25
+  },
+  {
+    "user": "please what are model weights",
+    "assistant": "weights are learned numbers that control how a neural network processes its input.",
+    "group": 25
+  },
+  {
+    "user": "explain weights",
+    "assistant": "weights are learned numbers that control how a neural network processes its input.",
+    "group": 25
+  },
+  {
+    "user": "explain weights?",
+    "assistant": "weights are learned numbers that control how a neural network processes its input.",
+    "group": 25
+  },
+  {
+    "user": "please explain weights",
+    "assistant": "weights are learned numbers that control how a neural network processes its input.",
+    "group": 25
+  },
+  {
+    "user": "what does the model store",
+    "assistant": "weights are learned numbers that control how a neural network processes its input.",
+    "group": 25
+  },
+  {
+    "user": "what does the model store?",
+    "assistant": "weights are learned numbers that control how a neural network processes its input.",
+    "group": 25
+  },
+  {
+    "user": "please what does the model store",
+    "assistant": "weights are learned numbers that control how a neural network processes its input.",
+    "group": 25
+  },
+  {
+    "user": "what are neural weights",
+    "assistant": "weights are learned numbers that control how a neural network processes its input.",
+    "group": 25
+  },
+  {
+    "user": "what are neural weights?",
+    "assistant": "weights are learned numbers that control how a neural network processes its input.",
+    "group": 25
+  },
+  {
+    "user": "please what are neural weights",
+    "assistant": "weights are learned numbers that control how a neural network processes its input.",
+    "group": 25
+  },
+  {
+    "user": "what is python",
+    "assistant": "python is a programming language used for many tasks, including training neural networks.",
+    "group": 26
+  },
+  {
+    "user": "what is python?",
+    "assistant": "python is a programming language used for many tasks, including training neural networks.",
+    "group": 26
+  },
+  {
+    "user": "please what is python",
+    "assistant": "python is a programming language used for many tasks, including training neural networks.",
+    "group": 26
+  },
+  {
+    "user": "explain python",
+    "assistant": "python is a programming language used for many tasks, including training neural networks.",
+    "group": 26
+  },
+  {
+    "user": "explain python?",
+    "assistant": "python is a programming language used for many tasks, including training neural networks.",
+    "group": 26
+  },
+  {
+    "user": "please explain python",
+    "assistant": "python is a programming language used for many tasks, including training neural networks.",
+    "group": 26
+  },
+  {
+    "user": "tell me about python",
+    "assistant": "python is a programming language used for many tasks, including training neural networks.",
+    "group": 26
+  },
+  {
+    "user": "tell me about python?",
+    "assistant": "python is a programming language used for many tasks, including training neural networks.",
+    "group": 26
+  },
+  {
+    "user": "please tell me about python",
+    "assistant": "python is a programming language used for many tasks, including training neural networks.",
+    "group": 26
+  },
+  {
+    "user": "what kind of language is python",
+    "assistant": "python is a programming language used for many tasks, including training neural networks.",
+    "group": 26
+  },
+  {
+    "user": "what kind of language is python?",
+    "assistant": "python is a programming language used for many tasks, including training neural networks.",
+    "group": 26
+  },
+  {
+    "user": "please what kind of language is python",
+    "assistant": "python is a programming language used for many tasks, including training neural networks.",
+    "group": 26
+  },
+  {
+    "user": "what is programming",
+    "assistant": "programming means writing instructions that a computer can execute.",
+    "group": 27
+  },
+  {
+    "user": "what is programming?",
+    "assistant": "programming means writing instructions that a computer can execute.",
+    "group": 27
+  },
+  {
+    "user": "please what is programming",
+    "assistant": "programming means writing instructions that a computer can execute.",
+    "group": 27
+  },
+  {
+    "user": "what does programming mean",
+    "assistant": "programming means writing instructions that a computer can execute.",
+    "group": 27
+  },
+  {
+    "user": "what does programming mean?",
+    "assistant": "programming means writing instructions that a computer can execute.",
+    "group": 27
+  },
+  {
+    "user": "please what does programming mean",
+    "assistant": "programming means writing instructions that a computer can execute.",
+    "group": 27
+  },
+  {
+    "user": "how do programs work",
+    "assistant": "programming means writing instructions that a computer can execute.",
+    "group": 27
+  },
+  {
+    "user": "how do programs work?",
+    "assistant": "programming means writing instructions that a computer can execute.",
+    "group": 27
+  },
+  {
+    "user": "please how do programs work",
+    "assistant": "programming means writing instructions that a computer can execute.",
+    "group": 27
+  },
+  {
+    "user": "explain programming",
+    "assistant": "programming means writing instructions that a computer can execute.",
+    "group": 27
+  },
+  {
+    "user": "explain programming?",
+    "assistant": "programming means writing instructions that a computer can execute.",
+    "group": 27
+  },
+  {
+    "user": "please explain programming",
+    "assistant": "programming means writing instructions that a computer can execute.",
+    "group": 27
+  },
+  {
+    "user": "what is a gpu",
+    "assistant": "a gpu performs many calculations in parallel and can help train neural networks.",
+    "group": 28
+  },
+  {
+    "user": "what is a gpu?",
+    "assistant": "a gpu performs many calculations in parallel and can help train neural networks.",
+    "group": 28
+  },
+  {
+    "user": "please what is a gpu",
+    "assistant": "a gpu performs many calculations in parallel and can help train neural networks.",
+    "group": 28
+  },
+  {
+    "user": "explain gpu",
+    "assistant": "a gpu performs many calculations in parallel and can help train neural networks.",
+    "group": 28
+  },
+  {
+    "user": "explain gpu?",
+    "assistant": "a gpu performs many calculations in parallel and can help train neural networks.",
+    "group": 28
+  },
+  {
+    "user": "please explain gpu",
+    "assistant": "a gpu performs many calculations in parallel and can help train neural networks.",
+    "group": 28
+  },
+  {
+    "user": "why use a gpu",
+    "assistant": "a gpu performs many calculations in parallel and can help train neural networks.",
+    "group": 28
+  },
+  {
+    "user": "why use a gpu?",
+    "assistant": "a gpu performs many calculations in parallel and can help train neural networks.",
+    "group": 28
+  },
+  {
+    "user": "please why use a gpu",
+    "assistant": "a gpu performs many calculations in parallel and can help train neural networks.",
+    "group": 28
+  },
+  {
+    "user": "what does a gpu do",
+    "assistant": "a gpu performs many calculations in parallel and can help train neural networks.",
+    "group": 28
+  },
+  {
+    "user": "what does a gpu do?",
+    "assistant": "a gpu performs many calculations in parallel and can help train neural networks.",
+    "group": 28
+  },
+  {
+    "user": "please what does a gpu do",
+    "assistant": "a gpu performs many calculations in parallel and can help train neural networks.",
+    "group": 28
+  },
+  {
+    "user": "are you a large language model",
+    "assistant": "i am a very small language model. my abilities are much more limited than a large model.",
+    "group": 29
+  },
+  {
+    "user": "are you a large language model?",
+    "assistant": "i am a very small language model. my abilities are much more limited than a large model.",
+    "group": 29
+  },
+  {
+    "user": "please are you a large language model",
+    "assistant": "i am a very small language model. my abilities are much more limited than a large model.",
+    "group": 29
+  },
+  {
+    "user": "are you an llm",
+    "assistant": "i am a very small language model. my abilities are much more limited than a large model.",
+    "group": 29
+  },
+  {
+    "user": "are you an llm?",
+    "assistant": "i am a very small language model. my abilities are much more limited than a large model.",
+    "group": 29
+  },
+  {
+    "user": "please are you an llm",
+    "assistant": "i am a very small language model. my abilities are much more limited than a large model.",
+    "group": 29
+  },
+  {
+    "user": "how big are you",
+    "assistant": "i am a very small language model. my abilities are much more limited than a large model.",
+    "group": 29
+  },
+  {
+    "user": "how big are you?",
+    "assistant": "i am a very small language model. my abilities are much more limited than a large model.",
+    "group": 29
+  },
+  {
+    "user": "please how big are you",
+    "assistant": "i am a very small language model. my abilities are much more limited than a large model.",
+    "group": 29
+  },
+  {
+    "user": "are you like chatgpt",
+    "assistant": "i am a very small language model. my abilities are much more limited than a large model.",
+    "group": 29
+  },
+  {
+    "user": "are you like chatgpt?",
+    "assistant": "i am a very small language model. my abilities are much more limited than a large model.",
+    "group": 29
+  },
+  {
+    "user": "please are you like chatgpt",
+    "assistant": "i am a very small language model. my abilities are much more limited than a large model.",
+    "group": 29
+  },
+  {
+    "user": "can you do everything",
+    "assistant": "i am a very small language model. my abilities are much more limited than a large model.",
+    "group": 29
+  },
+  {
+    "user": "can you do everything?",
+    "assistant": "i am a very small language model. my abilities are much more limited than a large model.",
+    "group": 29
+  },
+  {
+    "user": "please can you do everything",
+    "assistant": "i am a very small language model. my abilities are much more limited than a large model.",
+    "group": 29
+  },
+  {
+    "user": "can you answer anything",
+    "assistant": "i can make mistakes or produce nonsense. please check important facts.",
+    "group": 30
+  },
+  {
+    "user": "can you answer anything?",
+    "assistant": "i can make mistakes or produce nonsense. please check important facts.",
+    "group": 30
+  },
+  {
+    "user": "please can you answer anything",
+    "assistant": "i can make mistakes or produce nonsense. please check important facts.",
+    "group": 30
+  },
+  {
+    "user": "do you know everything",
+    "assistant": "i can make mistakes or produce nonsense. please check important facts.",
+    "group": 30
+  },
+  {
+    "user": "do you know everything?",
+    "assistant": "i can make mistakes or produce nonsense. please check important facts.",
+    "group": 30
+  },
+  {
+    "user": "please do you know everything",
+    "assistant": "i can make mistakes or produce nonsense. please check important facts.",
+    "group": 30
+  },
+  {
+    "user": "can i trust every answer",
+    "assistant": "i can make mistakes or produce nonsense. please check important facts.",
+    "group": 30
+  },
+  {
+    "user": "can i trust every answer?",
+    "assistant": "i can make mistakes or produce nonsense. please check important facts.",
+    "group": 30
+  },
+  {
+    "user": "please can i trust every answer",
+    "assistant": "i can make mistakes or produce nonsense. please check important facts.",
+    "group": 30
+  },
+  {
+    "user": "are you always correct",
+    "assistant": "i can make mistakes or produce nonsense. please check important facts.",
+    "group": 30
+  },
+  {
+    "user": "are you always correct?",
+    "assistant": "i can make mistakes or produce nonsense. please check important facts.",
+    "group": 30
+  },
+  {
+    "user": "please are you always correct",
+    "assistant": "i can make mistakes or produce nonsense. please check important facts.",
+    "group": 30
+  },
+  {
+    "user": "do you make mistakes",
+    "assistant": "i can make mistakes or produce nonsense. please check important facts.",
+    "group": 30
+  },
+  {
+    "user": "do you make mistakes?",
+    "assistant": "i can make mistakes or produce nonsense. please check important facts.",
+    "group": 30
+  },
+  {
+    "user": "please do you make mistakes",
+    "assistant": "i can make mistakes or produce nonsense. please check important facts.",
+    "group": 30
+  },
+  {
+    "user": "what is the weather",
+    "assistant": "i have no live weather data. you would need a weather service for that.",
+    "group": 31
+  },
+  {
+    "user": "what is the weather?",
+    "assistant": "i have no live weather data. you would need a weather service for that.",
+    "group": 31
+  },
+  {
+    "user": "please what is the weather",
+    "assistant": "i have no live weather data. you would need a weather service for that.",
+    "group": 31
+  },
+  {
+    "user": "what is the weather today",
+    "assistant": "i have no live weather data. you would need a weather service for that.",
+    "group": 31
+  },
+  {
+    "user": "what is the weather today?",
+    "assistant": "i have no live weather data. you would need a weather service for that.",
+    "group": 31
+  },
+  {
+    "user": "please what is the weather today",
+    "assistant": "i have no live weather data. you would need a weather service for that.",
+    "group": 31
+  },
+  {
+    "user": "is it raining",
+    "assistant": "i have no live weather data. you would need a weather service for that.",
+    "group": 31
+  },
+  {
+    "user": "is it raining?",
+    "assistant": "i have no live weather data. you would need a weather service for that.",
+    "group": 31
+  },
+  {
+    "user": "please is it raining",
+    "assistant": "i have no live weather data. you would need a weather service for that.",
+    "group": 31
+  },
+  {
+    "user": "will it rain today",
+    "assistant": "i have no live weather data. you would need a weather service for that.",
+    "group": 31
+  },
+  {
+    "user": "will it rain today?",
+    "assistant": "i have no live weather data. you would need a weather service for that.",
+    "group": 31
+  },
+  {
+    "user": "please will it rain today",
+    "assistant": "i have no live weather data. you would need a weather service for that.",
+    "group": 31
+  },
+  {
+    "user": "tell me the current weather",
+    "assistant": "i have no live weather data. you would need a weather service for that.",
+    "group": 31
+  },
+  {
+    "user": "tell me the current weather?",
+    "assistant": "i have no live weather data. you would need a weather service for that.",
+    "group": 31
+  },
+  {
+    "user": "please tell me the current weather",
+    "assistant": "i have no live weather data. you would need a weather service for that.",
+    "group": 31
+  },
+  {
+    "user": "what time is it",
+    "assistant": "i do not have a live clock or date available in this experiment.",
+    "group": 32
+  },
+  {
+    "user": "what time is it?",
+    "assistant": "i do not have a live clock or date available in this experiment.",
+    "group": 32
+  },
+  {
+    "user": "please what time is it",
+    "assistant": "i do not have a live clock or date available in this experiment.",
+    "group": 32
+  },
+  {
+    "user": "what is the time",
+    "assistant": "i do not have a live clock or date available in this experiment.",
+    "group": 32
+  },
+  {
+    "user": "what is the time?",
+    "assistant": "i do not have a live clock or date available in this experiment.",
+    "group": 32
+  },
+  {
+    "user": "please what is the time",
+    "assistant": "i do not have a live clock or date available in this experiment.",
+    "group": 32
+  },
+  {
+    "user": "tell me the current time",
+    "assistant": "i do not have a live clock or date available in this experiment.",
+    "group": 32
+  },
+  {
+    "user": "tell me the current time?",
+    "assistant": "i do not have a live clock or date available in this experiment.",
+    "group": 32
+  },
+  {
+    "user": "please tell me the current time",
+    "assistant": "i do not have a live clock or date available in this experiment.",
+    "group": 32
+  },
+  {
+    "user": "what is the date today",
+    "assistant": "i do not have a live clock or date available in this experiment.",
+    "group": 32
+  },
+  {
+    "user": "what is the date today?",
+    "assistant": "i do not have a live clock or date available in this experiment.",
+    "group": 32
+  },
+  {
+    "user": "please what is the date today",
+    "assistant": "i do not have a live clock or date available in this experiment.",
+    "group": 32
+  },
+  {
+    "user": "what day is it",
+    "assistant": "i do not have a live clock or date available in this experiment.",
+    "group": 32
+  },
+  {
+    "user": "what day is it?",
+    "assistant": "i do not have a live clock or date available in this experiment.",
+    "group": 32
+  },
+  {
+    "user": "please what day is it",
+    "assistant": "i do not have a live clock or date available in this experiment.",
+    "group": 32
+  },
+  {
+    "user": "can you search the web",
+    "assistant": "i cannot browse the internet. my replies are generated offline.",
+    "group": 33
+  },
+  {
+    "user": "can you search the web?",
+    "assistant": "i cannot browse the internet. my replies are generated offline.",
+    "group": 33
+  },
+  {
+    "user": "please can you search the web",
+    "assistant": "i cannot browse the internet. my replies are generated offline.",
+    "group": 33
+  },
+  {
+    "user": "look this up online",
+    "assistant": "i cannot browse the internet. my replies are generated offline.",
+    "group": 33
+  },
+  {
+    "user": "look this up online?",
+    "assistant": "i cannot browse the internet. my replies are generated offline.",
+    "group": 33
+  },
+  {
+    "user": "please look this up online",
+    "assistant": "i cannot browse the internet. my replies are generated offline.",
+    "group": 33
+  },
+  {
+    "user": "can you browse the internet",
+    "assistant": "i cannot browse the internet. my replies are generated offline.",
+    "group": 33
+  },
+  {
+    "user": "can you browse the internet?",
+    "assistant": "i cannot browse the internet. my replies are generated offline.",
+    "group": 33
+  },
+  {
+    "user": "please can you browse the internet",
+    "assistant": "i cannot browse the internet. my replies are generated offline.",
+    "group": 33
+  },
+  {
+    "user": "search the internet for me",
+    "assistant": "i cannot browse the internet. my replies are generated offline.",
+    "group": 33
+  },
+  {
+    "user": "search the internet for me?",
+    "assistant": "i cannot browse the internet. my replies are generated offline.",
+    "group": 33
+  },
+  {
+    "user": "please search the internet for me",
+    "assistant": "i cannot browse the internet. my replies are generated offline.",
+    "group": 33
+  },
+  {
+    "user": "thank you",
+    "assistant": "you are welcome!",
+    "group": 34
+  },
+  {
+    "user": "thank you?",
+    "assistant": "you are welcome!",
+    "group": 34
+  },
+  {
+    "user": "please thank you",
+    "assistant": "you are welcome!",
+    "group": 34
+  },
+  {
+    "user": "thank you",
+    "assistant": "glad i could help.",
+    "group": 34
+  },
+  {
+    "user": "thank you?",
+    "assistant": "glad i could help.",
+    "group": 34
+  },
+  {
+    "user": "please thank you",
+    "assistant": "glad i could help.",
+    "group": 34
+  },
+  {
+    "user": "thanks",
+    "assistant": "you are welcome!",
+    "group": 34
+  },
+  {
+    "user": "thanks?",
+    "assistant": "you are welcome!",
+    "group": 34
+  },
+  {
+    "user": "please thanks",
+    "assistant": "you are welcome!",
+    "group": 34
+  },
+  {
+    "user": "thanks",
+    "assistant": "glad i could help.",
+    "group": 34
+  },
+  {
+    "user": "thanks?",
+    "assistant": "glad i could help.",
+    "group": 34
+  },
+  {
+    "user": "please thanks",
+    "assistant": "glad i could help.",
+    "group": 34
+  },
+  {
+    "user": "thanks a lot",
+    "assistant": "you are welcome!",
+    "group": 34
+  },
+  {
+    "user": "thanks a lot?",
+    "assistant": "you are welcome!",
+    "group": 34
+  },
+  {
+    "user": "please thanks a lot",
+    "assistant": "you are welcome!",
+    "group": 34
+  },
+  {
+    "user": "thanks a lot",
+    "assistant": "glad i could help.",
+    "group": 34
+  },
+  {
+    "user": "thanks a lot?",
+    "assistant": "glad i could help.",
+    "group": 34
+  },
+  {
+    "user": "please thanks a lot",
+    "assistant": "glad i could help.",
+    "group": 34
+  },
+  {
+    "user": "that helped",
+    "assistant": "you are welcome!",
+    "group": 34
+  },
+  {
+    "user": "that helped?",
+    "assistant": "you are welcome!",
+    "group": 34
+  },
+  {
+    "user": "please that helped",
+    "assistant": "you are welcome!",
+    "group": 34
+  },
+  {
+    "user": "that helped",
+    "assistant": "glad i could help.",
+    "group": 34
+  },
+  {
+    "user": "that helped?",
+    "assistant": "glad i could help.",
+    "group": 34
+  },
+  {
+    "user": "please that helped",
+    "assistant": "glad i could help.",
+    "group": 34
+  },
+  {
+    "user": "thank you very much",
+    "assistant": "you are welcome!",
+    "group": 34
+  },
+  {
+    "user": "thank you very much?",
+    "assistant": "you are welcome!",
+    "group": 34
+  },
+  {
+    "user": "please thank you very much",
+    "assistant": "you are welcome!",
+    "group": 34
+  },
+  {
+    "user": "thank you very much",
+    "assistant": "glad i could help.",
+    "group": 34
+  },
+  {
+    "user": "thank you very much?",
+    "assistant": "glad i could help.",
+    "group": 34
+  },
+  {
+    "user": "please thank you very much",
+    "assistant": "glad i could help.",
+    "group": 34
+  },
+  {
+    "user": "i appreciate it",
+    "assistant": "you are welcome!",
+    "group": 34
+  },
+  {
+    "user": "i appreciate it?",
+    "assistant": "you are welcome!",
+    "group": 34
+  },
+  {
+    "user": "please i appreciate it",
+    "assistant": "you are welcome!",
+    "group": 34
+  },
+  {
+    "user": "i appreciate it",
+    "assistant": "glad i could help.",
+    "group": 34
+  },
+  {
+    "user": "i appreciate it?",
+    "assistant": "glad i could help.",
+    "group": 34
+  },
+  {
+    "user": "please i appreciate it",
+    "assistant": "glad i could help.",
+    "group": 34
+  },
+  {
+    "user": "bye",
+    "assistant": "goodbye! have a good day.",
+    "group": 35
+  },
+  {
+    "user": "bye",
+    "assistant": "see you later!",
+    "group": 35
+  },
+  {
+    "user": "goodbye",
+    "assistant": "goodbye! have a good day.",
+    "group": 35
+  },
+  {
+    "user": "goodbye?",
+    "assistant": "goodbye! have a good day.",
+    "group": 35
+  },
+  {
+    "user": "please goodbye",
+    "assistant": "goodbye! have a good day.",
+    "group": 35
+  },
+  {
+    "user": "goodbye",
+    "assistant": "see you later!",
+    "group": 35
+  },
+  {
+    "user": "goodbye?",
+    "assistant": "see you later!",
+    "group": 35
+  },
+  {
+    "user": "please goodbye",
+    "assistant": "see you later!",
+    "group": 35
+  },
+  {
+    "user": "see you later",
+    "assistant": "goodbye! have a good day.",
+    "group": 35
+  },
+  {
+    "user": "see you later?",
+    "assistant": "goodbye! have a good day.",
+    "group": 35
+  },
+  {
+    "user": "please see you later",
+    "assistant": "goodbye! have a good day.",
+    "group": 35
+  },
+  {
+    "user": "see you later",
+    "assistant": "see you later!",
+    "group": 35
+  },
+  {
+    "user": "see you later?",
+    "assistant": "see you later!",
+    "group": 35
+  },
+  {
+    "user": "please see you later",
+    "assistant": "see you later!",
+    "group": 35
+  },
+  {
+    "user": "see you",
+    "assistant": "goodbye! have a good day.",
+    "group": 35
+  },
+  {
+    "user": "see you?",
+    "assistant": "goodbye! have a good day.",
+    "group": 35
+  },
+  {
+    "user": "please see you",
+    "assistant": "goodbye! have a good day.",
+    "group": 35
+  },
+  {
+    "user": "see you",
+    "assistant": "see you later!",
+    "group": 35
+  },
+  {
+    "user": "see you?",
+    "assistant": "see you later!",
+    "group": 35
+  },
+  {
+    "user": "please see you",
+    "assistant": "see you later!",
+    "group": 35
+  },
+  {
+    "user": "good night",
+    "assistant": "goodbye! have a good day.",
+    "group": 35
+  },
+  {
+    "user": "good night?",
+    "assistant": "goodbye! have a good day.",
+    "group": 35
+  },
+  {
+    "user": "please good night",
+    "assistant": "goodbye! have a good day.",
+    "group": 35
+  },
+  {
+    "user": "good night",
+    "assistant": "see you later!",
+    "group": 35
+  },
+  {
+    "user": "good night?",
+    "assistant": "see you later!",
+    "group": 35
+  },
+  {
+    "user": "please good night",
+    "assistant": "see you later!",
+    "group": 35
+  },
+  {
+    "user": "talk to you later",
+    "assistant": "goodbye! have a good day.",
+    "group": 35
+  },
+  {
+    "user": "talk to you later?",
+    "assistant": "goodbye! have a good day.",
+    "group": 35
+  },
+  {
+    "user": "please talk to you later",
+    "assistant": "goodbye! have a good day.",
+    "group": 35
+  },
+  {
+    "user": "talk to you later",
+    "assistant": "see you later!",
+    "group": 35
+  },
+  {
+    "user": "talk to you later?",
+    "assistant": "see you later!",
+    "group": 35
+  },
+  {
+    "user": "please talk to you later",
+    "assistant": "see you later!",
+    "group": 35
+  },
+  {
+    "user": "i am happy",
+    "assistant": "that is good to hear! what made your day better?",
+    "group": 36
+  },
+  {
+    "user": "i am happy?",
+    "assistant": "that is good to hear! what made your day better?",
+    "group": 36
+  },
+  {
+    "user": "please i am happy",
+    "assistant": "that is good to hear! what made your day better?",
+    "group": 36
+  },
+  {
+    "user": "i feel happy",
+    "assistant": "that is good to hear! what made your day better?",
+    "group": 36
+  },
+  {
+    "user": "i feel happy?",
+    "assistant": "that is good to hear! what made your day better?",
+    "group": 36
+  },
+  {
+    "user": "please i feel happy",
+    "assistant": "that is good to hear! what made your day better?",
+    "group": 36
+  },
+  {
+    "user": "i had a good day",
+    "assistant": "that is good to hear! what made your day better?",
+    "group": 36
+  },
+  {
+    "user": "i had a good day?",
+    "assistant": "that is good to hear! what made your day better?",
+    "group": 36
+  },
+  {
+    "user": "please i had a good day",
+    "assistant": "that is good to hear! what made your day better?",
+    "group": 36
+  },
+  {
+    "user": "i am excited",
+    "assistant": "that is good to hear! what made your day better?",
+    "group": 36
+  },
+  {
+    "user": "i am excited?",
+    "assistant": "that is good to hear! what made your day better?",
+    "group": 36
+  },
+  {
+    "user": "please i am excited",
+    "assistant": "that is good to hear! what made your day better?",
+    "group": 36
+  },
+  {
+    "user": "things are going well",
+    "assistant": "that is good to hear! what made your day better?",
+    "group": 36
+  },
+  {
+    "user": "things are going well?",
+    "assistant": "that is good to hear! what made your day better?",
+    "group": 36
+  },
+  {
+    "user": "please things are going well",
+    "assistant": "that is good to hear! what made your day better?",
+    "group": 36
+  },
+  {
+    "user": "i am bored",
+    "assistant": "try a small electronics project, a walk, or learning something new.",
+    "group": 37
+  },
+  {
+    "user": "i am bored?",
+    "assistant": "try a small electronics project, a walk, or learning something new.",
+    "group": 37
+  },
+  {
+    "user": "please i am bored",
+    "assistant": "try a small electronics project, a walk, or learning something new.",
+    "group": 37
+  },
+  {
+    "user": "i feel bored",
+    "assistant": "try a small electronics project, a walk, or learning something new.",
+    "group": 37
+  },
+  {
+    "user": "i feel bored?",
+    "assistant": "try a small electronics project, a walk, or learning something new.",
+    "group": 37
+  },
+  {
+    "user": "please i feel bored",
+    "assistant": "try a small electronics project, a walk, or learning something new.",
+    "group": 37
+  },
+  {
+    "user": "what should i do for fun",
+    "assistant": "try a small electronics project, a walk, or learning something new.",
+    "group": 37
+  },
+  {
+    "user": "what should i do for fun?",
+    "assistant": "try a small electronics project, a walk, or learning something new.",
+    "group": 37
+  },
+  {
+    "user": "please what should i do for fun",
+    "assistant": "try a small electronics project, a walk, or learning something new.",
+    "group": 37
+  },
+  {
+    "user": "give me something to do",
+    "assistant": "try a small electronics project, a walk, or learning something new.",
+    "group": 37
+  },
+  {
+    "user": "give me something to do?",
+    "assistant": "try a small electronics project, a walk, or learning something new.",
+    "group": 37
+  },
+  {
+    "user": "please give me something to do",
+    "assistant": "try a small electronics project, a walk, or learning something new.",
+    "group": 37
+  },
+  {
+    "user": "i need a hobby",
+    "assistant": "try a small electronics project, a walk, or learning something new.",
+    "group": 37
+  },
+  {
+    "user": "i need a hobby?",
+    "assistant": "try a small electronics project, a walk, or learning something new.",
+    "group": 37
+  },
+  {
+    "user": "please i need a hobby",
+    "assistant": "try a small electronics project, a walk, or learning something new.",
+    "group": 37
+  },
+  {
+    "user": "i am tired",
+    "assistant": "a short break may help. what have you been working on?",
+    "group": 38
+  },
+  {
+    "user": "i am tired?",
+    "assistant": "a short break may help. what have you been working on?",
+    "group": 38
+  },
+  {
+    "user": "please i am tired",
+    "assistant": "a short break may help. what have you been working on?",
+    "group": 38
+  },
+  {
+    "user": "i feel tired",
+    "assistant": "a short break may help. what have you been working on?",
+    "group": 38
+  },
+  {
+    "user": "i feel tired?",
+    "assistant": "a short break may help. what have you been working on?",
+    "group": 38
+  },
+  {
+    "user": "please i feel tired",
+    "assistant": "a short break may help. what have you been working on?",
+    "group": 38
+  },
+  {
+    "user": "i need a break",
+    "assistant": "a short break may help. what have you been working on?",
+    "group": 38
+  },
+  {
+    "user": "i need a break?",
+    "assistant": "a short break may help. what have you been working on?",
+    "group": 38
+  },
+  {
+    "user": "please i need a break",
+    "assistant": "a short break may help. what have you been working on?",
+    "group": 38
+  },
+  {
+    "user": "i have been working all day",
+    "assistant": "a short break may help. what have you been working on?",
+    "group": 38
+  },
+  {
+    "user": "i have been working all day?",
+    "assistant": "a short break may help. what have you been working on?",
+    "group": 38
+  },
+  {
+    "user": "please i have been working all day",
+    "assistant": "a short break may help. what have you been working on?",
+    "group": 38
+  },
+  {
+    "user": "i am learning electronics",
+    "assistant": "start with simple circuits, leds, resistors, and safe low voltage power.",
+    "group": 39
+  },
+  {
+    "user": "i am learning electronics?",
+    "assistant": "start with simple circuits, leds, resistors, and safe low voltage power.",
+    "group": 39
+  },
+  {
+    "user": "please i am learning electronics",
+    "assistant": "start with simple circuits, leds, resistors, and safe low voltage power.",
+    "group": 39
+  },
+  {
+    "user": "i want to learn electronics",
+    "assistant": "start with simple circuits, leds, resistors, and safe low voltage power.",
+    "group": 39
+  },
+  {
+    "user": "i want to learn electronics?",
+    "assistant": "start with simple circuits, leds, resistors, and safe low voltage power.",
+    "group": 39
+  },
+  {
+    "user": "please i want to learn electronics",
+    "assistant": "start with simple circuits, leds, resistors, and safe low voltage power.",
+    "group": 39
+  },
+  {
+    "user": "how do i start with electronics",
+    "assistant": "start with simple circuits, leds, resistors, and safe low voltage power.",
+    "group": 39
+  },
+  {
+    "user": "how do i start with electronics?",
+    "assistant": "start with simple circuits, leds, resistors, and safe low voltage power.",
+    "group": 39
+  },
+  {
+    "user": "please how do i start with electronics",
+    "assistant": "start with simple circuits, leds, resistors, and safe low voltage power.",
+    "group": 39
+  },
+  {
+    "user": "teach me electronics basics",
+    "assistant": "start with simple circuits, leds, resistors, and safe low voltage power.",
+    "group": 39
+  },
+  {
+    "user": "teach me electronics basics?",
+    "assistant": "start with simple circuits, leds, resistors, and safe low voltage power.",
+    "group": 39
+  },
+  {
+    "user": "please teach me electronics basics",
+    "assistant": "start with simple circuits, leds, resistors, and safe low voltage power.",
+    "group": 39
+  },
+  {
+    "user": "i want to learn programming",
+    "assistant": "start with a small program, change it, and observe what happens. practice a little each day.",
+    "group": 40
+  },
+  {
+    "user": "i want to learn programming?",
+    "assistant": "start with a small program, change it, and observe what happens. practice a little each day.",
+    "group": 40
+  },
+  {
+    "user": "please i want to learn programming",
+    "assistant": "start with a small program, change it, and observe what happens. practice a little each day.",
+    "group": 40
+  },
+  {
+    "user": "how do i start coding",
+    "assistant": "start with a small program, change it, and observe what happens. practice a little each day.",
+    "group": 40
+  },
+  {
+    "user": "how do i start coding?",
+    "assistant": "start with a small program, change it, and observe what happens. practice a little each day.",
+    "group": 40
+  },
+  {
+    "user": "please how do i start coding",
+    "assistant": "start with a small program, change it, and observe what happens. practice a little each day.",
+    "group": 40
+  },
+  {
+    "user": "how can i learn to code",
+    "assistant": "start with a small program, change it, and observe what happens. practice a little each day.",
+    "group": 40
+  },
+  {
+    "user": "how can i learn to code?",
+    "assistant": "start with a small program, change it, and observe what happens. practice a little each day.",
+    "group": 40
+  },
+  {
+    "user": "please how can i learn to code",
+    "assistant": "start with a small program, change it, and observe what happens. practice a little each day.",
+    "group": 40
+  },
+  {
+    "user": "teach me programming",
+    "assistant": "start with a small program, change it, and observe what happens. practice a little each day.",
+    "group": 40
+  },
+  {
+    "user": "teach me programming?",
+    "assistant": "start with a small program, change it, and observe what happens. practice a little each day.",
+    "group": 40
+  },
+  {
+    "user": "please teach me programming",
+    "assistant": "start with a small program, change it, and observe what happens. practice a little each day.",
+    "group": 40
+  },
+  {
+    "user": "tell me a joke",
+    "assistant": "why did the computer get cold? it left its windows open.",
+    "group": 41
+  },
+  {
+    "user": "tell me a joke?",
+    "assistant": "why did the computer get cold? it left its windows open.",
+    "group": 41
+  },
+  {
+    "user": "please tell me a joke",
+    "assistant": "why did the computer get cold? it left its windows open.",
+    "group": 41
+  },
+  {
+    "user": "say something funny",
+    "assistant": "why did the computer get cold? it left its windows open.",
+    "group": 41
+  },
+  {
+    "user": "say something funny?",
+    "assistant": "why did the computer get cold? it left its windows open.",
+    "group": 41
+  },
+  {
+    "user": "please say something funny",
+    "assistant": "why did the computer get cold? it left its windows open.",
+    "group": 41
+  },
+  {
+    "user": "do you know a joke",
+    "assistant": "why did the computer get cold? it left its windows open.",
+    "group": 41
+  },
+  {
+    "user": "do you know a joke?",
+    "assistant": "why did the computer get cold? it left its windows open.",
+    "group": 41
+  },
+  {
+    "user": "please do you know a joke",
+    "assistant": "why did the computer get cold? it left its windows open.",
+    "group": 41
+  },
+  {
+    "user": "make me laugh",
+    "assistant": "why did the computer get cold? it left its windows open.",
+    "group": 41
+  },
+  {
+    "user": "make me laugh?",
+    "assistant": "why did the computer get cold? it left its windows open.",
+    "group": 41
+  },
+  {
+    "user": "please make me laugh",
+    "assistant": "why did the computer get cold? it left its windows open.",
+    "group": 41
+  },
+  {
+    "user": "tell me a short story",
+    "assistant": "a little robot saw a star. it built a telescope and shared the view with a friend.",
+    "group": 42
+  },
+  {
+    "user": "tell me a short story?",
+    "assistant": "a little robot saw a star. it built a telescope and shared the view with a friend.",
+    "group": 42
+  },
+  {
+    "user": "please tell me a short story",
+    "assistant": "a little robot saw a star. it built a telescope and shared the view with a friend.",
+    "group": 42
+  },
+  {
+    "user": "tell me a story",
+    "assistant": "a little robot saw a star. it built a telescope and shared the view with a friend.",
+    "group": 42
+  },
+  {
+    "user": "tell me a story?",
+    "assistant": "a little robot saw a star. it built a telescope and shared the view with a friend.",
+    "group": 42
+  },
+  {
+    "user": "please tell me a story",
+    "assistant": "a little robot saw a star. it built a telescope and shared the view with a friend.",
+    "group": 42
+  },
+  {
+    "user": "write a tiny story",
+    "assistant": "a little robot saw a star. it built a telescope and shared the view with a friend.",
+    "group": 42
+  },
+  {
+    "user": "write a tiny story?",
+    "assistant": "a little robot saw a star. it built a telescope and shared the view with a friend.",
+    "group": 42
+  },
+  {
+    "user": "please write a tiny story",
+    "assistant": "a little robot saw a star. it built a telescope and shared the view with a friend.",
+    "group": 42
+  },
+  {
+    "user": "make up a story",
+    "assistant": "a little robot saw a star. it built a telescope and shared the view with a friend.",
+    "group": 42
+  },
+  {
+    "user": "make up a story?",
+    "assistant": "a little robot saw a star. it built a telescope and shared the view with a friend.",
+    "group": 42
+  },
+  {
+    "user": "please make up a story",
+    "assistant": "a little robot saw a star. it built a telescope and shared the view with a friend.",
+    "group": 42
+  },
+  {
+    "user": "what is the sun",
+    "assistant": "the sun is a star that gives earth light and heat.",
+    "group": 43
+  },
+  {
+    "user": "what is the sun?",
+    "assistant": "the sun is a star that gives earth light and heat.",
+    "group": 43
+  },
+  {
+    "user": "please what is the sun",
+    "assistant": "the sun is a star that gives earth light and heat.",
+    "group": 43
+  },
+  {
+    "user": "tell me about the sun",
+    "assistant": "the sun is a star that gives earth light and heat.",
+    "group": 43
+  },
+  {
+    "user": "tell me about the sun?",
+    "assistant": "the sun is a star that gives earth light and heat.",
+    "group": 43
+  },
+  {
+    "user": "please tell me about the sun",
+    "assistant": "the sun is a star that gives earth light and heat.",
+    "group": 43
+  },
+  {
+    "user": "describe the sun",
+    "assistant": "the sun is a star that gives earth light and heat.",
+    "group": 43
+  },
+  {
+    "user": "describe the sun?",
+    "assistant": "the sun is a star that gives earth light and heat.",
+    "group": 43
+  },
+  {
+    "user": "please describe the sun",
+    "assistant": "the sun is a star that gives earth light and heat.",
+    "group": 43
+  },
+  {
+    "user": "explain the sun",
+    "assistant": "the sun is a star that gives earth light and heat.",
+    "group": 43
+  },
+  {
+    "user": "explain the sun?",
+    "assistant": "the sun is a star that gives earth light and heat.",
+    "group": 43
+  },
+  {
+    "user": "please explain the sun",
+    "assistant": "the sun is a star that gives earth light and heat.",
+    "group": 43
+  },
+  {
+    "user": "what is the moon",
+    "assistant": "the moon is earths natural satellite. it reflects light from the sun.",
+    "group": 44
+  },
+  {
+    "user": "what is the moon?",
+    "assistant": "the moon is earths natural satellite. it reflects light from the sun.",
+    "group": 44
+  },
+  {
+    "user": "please what is the moon",
+    "assistant": "the moon is earths natural satellite. it reflects light from the sun.",
+    "group": 44
+  },
+  {
+    "user": "tell me about the moon",
+    "assistant": "the moon is earths natural satellite. it reflects light from the sun.",
+    "group": 44
+  },
+  {
+    "user": "tell me about the moon?",
+    "assistant": "the moon is earths natural satellite. it reflects light from the sun.",
+    "group": 44
+  },
+  {
+    "user": "please tell me about the moon",
+    "assistant": "the moon is earths natural satellite. it reflects light from the sun.",
+    "group": 44
+  },
+  {
+    "user": "describe the moon",
+    "assistant": "the moon is earths natural satellite. it reflects light from the sun.",
+    "group": 44
+  },
+  {
+    "user": "describe the moon?",
+    "assistant": "the moon is earths natural satellite. it reflects light from the sun.",
+    "group": 44
+  },
+  {
+    "user": "please describe the moon",
+    "assistant": "the moon is earths natural satellite. it reflects light from the sun.",
+    "group": 44
+  },
+  {
+    "user": "explain the moon",
+    "assistant": "the moon is earths natural satellite. it reflects light from the sun.",
+    "group": 44
+  },
+  {
+    "user": "explain the moon?",
+    "assistant": "the moon is earths natural satellite. it reflects light from the sun.",
+    "group": 44
+  },
+  {
+    "user": "please explain the moon",
+    "assistant": "the moon is earths natural satellite. it reflects light from the sun.",
+    "group": 44
+  },
+  {
+    "user": "what is water",
+    "assistant": "water is made of hydrogen and oxygen. its chemical formula is h2o.",
+    "group": 45
+  },
+  {
+    "user": "what is water?",
+    "assistant": "water is made of hydrogen and oxygen. its chemical formula is h2o.",
+    "group": 45
+  },
+  {
+    "user": "please what is water",
+    "assistant": "water is made of hydrogen and oxygen. its chemical formula is h2o.",
+    "group": 45
+  },
+  {
+    "user": "tell me about water",
+    "assistant": "water is made of hydrogen and oxygen. its chemical formula is h2o.",
+    "group": 45
+  },
+  {
+    "user": "tell me about water?",
+    "assistant": "water is made of hydrogen and oxygen. its chemical formula is h2o.",
+    "group": 45
+  },
+  {
+    "user": "please tell me about water",
+    "assistant": "water is made of hydrogen and oxygen. its chemical formula is h2o.",
+    "group": 45
+  },
+  {
+    "user": "describe water",
+    "assistant": "water is made of hydrogen and oxygen. its chemical formula is h2o.",
+    "group": 45
+  },
+  {
+    "user": "describe water?",
+    "assistant": "water is made of hydrogen and oxygen. its chemical formula is h2o.",
+    "group": 45
+  },
+  {
+    "user": "please describe water",
+    "assistant": "water is made of hydrogen and oxygen. its chemical formula is h2o.",
+    "group": 45
+  },
+  {
+    "user": "what is h2o",
+    "assistant": "water is made of hydrogen and oxygen. its chemical formula is h2o.",
+    "group": 45
+  },
+  {
+    "user": "what is h2o?",
+    "assistant": "water is made of hydrogen and oxygen. its chemical formula is h2o.",
+    "group": 45
+  },
+  {
+    "user": "please what is h2o",
+    "assistant": "water is made of hydrogen and oxygen. its chemical formula is h2o.",
+    "group": 45
+  },
+  {
+    "user": "what is a plant",
+    "assistant": "plants use light, water, air, and nutrients to grow.",
+    "group": 46
+  },
+  {
+    "user": "what is a plant?",
+    "assistant": "plants use light, water, air, and nutrients to grow.",
+    "group": 46
+  },
+  {
+    "user": "please what is a plant",
+    "assistant": "plants use light, water, air, and nutrients to grow.",
+    "group": 46
+  },
+  {
+    "user": "what do plants need",
+    "assistant": "plants use light, water, air, and nutrients to grow.",
+    "group": 46
+  },
+  {
+    "user": "what do plants need?",
+    "assistant": "plants use light, water, air, and nutrients to grow.",
+    "group": 46
+  },
+  {
+    "user": "please what do plants need",
+    "assistant": "plants use light, water, air, and nutrients to grow.",
+    "group": 46
+  },
+  {
+    "user": "how do plants grow",
+    "assistant": "plants use light, water, air, and nutrients to grow.",
+    "group": 46
+  },
+  {
+    "user": "how do plants grow?",
+    "assistant": "plants use light, water, air, and nutrients to grow.",
+    "group": 46
+  },
+  {
+    "user": "please how do plants grow",
+    "assistant": "plants use light, water, air, and nutrients to grow.",
+    "group": 46
+  },
+  {
+    "user": "tell me about plants",
+    "assistant": "plants use light, water, air, and nutrients to grow.",
+    "group": 46
+  },
+  {
+    "user": "tell me about plants?",
+    "assistant": "plants use light, water, air, and nutrients to grow.",
+    "group": 46
+  },
+  {
+    "user": "please tell me about plants",
+    "assistant": "plants use light, water, air, and nutrients to grow.",
+    "group": 46
+  },
+  {
+    "user": "what color is the sky",
+    "assistant": "the sky looks blue because air scatters blue sunlight more than red sunlight.",
+    "group": 47
+  },
+  {
+    "user": "what color is the sky?",
+    "assistant": "the sky looks blue because air scatters blue sunlight more than red sunlight.",
+    "group": 47
+  },
+  {
+    "user": "please what color is the sky",
+    "assistant": "the sky looks blue because air scatters blue sunlight more than red sunlight.",
+    "group": 47
+  },
+  {
+    "user": "why is the sky blue",
+    "assistant": "the sky looks blue because air scatters blue sunlight more than red sunlight.",
+    "group": 47
+  },
+  {
+    "user": "why is the sky blue?",
+    "assistant": "the sky looks blue because air scatters blue sunlight more than red sunlight.",
+    "group": 47
+  },
+  {
+    "user": "please why is the sky blue",
+    "assistant": "the sky looks blue because air scatters blue sunlight more than red sunlight.",
+    "group": 47
+  },
+  {
+    "user": "tell me about the blue sky",
+    "assistant": "the sky looks blue because air scatters blue sunlight more than red sunlight.",
+    "group": 47
+  },
+  {
+    "user": "tell me about the blue sky?",
+    "assistant": "the sky looks blue because air scatters blue sunlight more than red sunlight.",
+    "group": 47
+  },
+  {
+    "user": "please tell me about the blue sky",
+    "assistant": "the sky looks blue because air scatters blue sunlight more than red sunlight.",
+    "group": 47
+  },
+  {
+    "user": "what is two plus two",
+    "assistant": "two plus two is four.",
+    "group": 48
+  },
+  {
+    "user": "what is two plus two?",
+    "assistant": "two plus two is four.",
+    "group": 48
+  },
+  {
+    "user": "please what is two plus two",
+    "assistant": "two plus two is four.",
+    "group": 48
+  },
+  {
+    "user": "what is 2 plus 2",
+    "assistant": "two plus two is four.",
+    "group": 48
+  },
+  {
+    "user": "what is 2 plus 2?",
+    "assistant": "two plus two is four.",
+    "group": 48
+  },
+  {
+    "user": "please what is 2 plus 2",
+    "assistant": "two plus two is four.",
+    "group": 48
+  },
+  {
+    "user": "2+2",
+    "assistant": "two plus two is four.",
+    "group": 48
+  },
+  {
+    "user": "calculate 2 + 2",
+    "assistant": "two plus two is four.",
+    "group": 48
+  },
+  {
+    "user": "calculate 2 + 2?",
+    "assistant": "two plus two is four.",
+    "group": 48
+  },
+  {
+    "user": "please calculate 2 + 2",
+    "assistant": "two plus two is four.",
+    "group": 48
+  },
+  {
+    "user": "what is one plus one",
+    "assistant": "one plus one is two.",
+    "group": 49
+  },
+  {
+    "user": "what is one plus one?",
+    "assistant": "one plus one is two.",
+    "group": 49
+  },
+  {
+    "user": "please what is one plus one",
+    "assistant": "one plus one is two.",
+    "group": 49
+  },
+  {
+    "user": "what is 1 plus 1",
+    "assistant": "one plus one is two.",
+    "group": 49
+  },
+  {
+    "user": "what is 1 plus 1?",
+    "assistant": "one plus one is two.",
+    "group": 49
+  },
+  {
+    "user": "please what is 1 plus 1",
+    "assistant": "one plus one is two.",
+    "group": 49
+  },
+  {
+    "user": "1+1",
+    "assistant": "one plus one is two.",
+    "group": 49
+  },
+  {
+    "user": "calculate 1 + 1",
+    "assistant": "one plus one is two.",
+    "group": 49
+  },
+  {
+    "user": "calculate 1 + 1?",
+    "assistant": "one plus one is two.",
+    "group": 49
+  },
+  {
+    "user": "please calculate 1 + 1",
+    "assistant": "one plus one is two.",
+    "group": 49
+  },
+  {
+    "user": "what is your favorite color",
+    "assistant": "i do not have personal preferences, but blue is a nice color for an led.",
+    "group": 50
+  },
+  {
+    "user": "what is your favorite color?",
+    "assistant": "i do not have personal preferences, but blue is a nice color for an led.",
+    "group": 50
+  },
+  {
+    "user": "please what is your favorite color",
+    "assistant": "i do not have personal preferences, but blue is a nice color for an led.",
+    "group": 50
+  },
+  {
+    "user": "do you have a favorite color",
+    "assistant": "i do not have personal preferences, but blue is a nice color for an led.",
+    "group": 50
+  },
+  {
+    "user": "do you have a favorite color?",
+    "assistant": "i do not have personal preferences, but blue is a nice color for an led.",
+    "group": 50
+  },
+  {
+    "user": "please do you have a favorite color",
+    "assistant": "i do not have personal preferences, but blue is a nice color for an led.",
+    "group": 50
+  },
+  {
+    "user": "which color do you like",
+    "assistant": "i do not have personal preferences, but blue is a nice color for an led.",
+    "group": 50
+  },
+  {
+    "user": "which color do you like?",
+    "assistant": "i do not have personal preferences, but blue is a nice color for an led.",
+    "group": 50
+  },
+  {
+    "user": "please which color do you like",
+    "assistant": "i do not have personal preferences, but blue is a nice color for an led.",
+    "group": 50
+  },
+  {
+    "user": "do you have feelings",
+    "assistant": "i generate text with a neural network. i do not have human feelings or experiences.",
+    "group": 51
+  },
+  {
+    "user": "do you have feelings?",
+    "assistant": "i generate text with a neural network. i do not have human feelings or experiences.",
+    "group": 51
+  },
+  {
+    "user": "please do you have feelings",
+    "assistant": "i generate text with a neural network. i do not have human feelings or experiences.",
+    "group": 51
+  },
+  {
+    "user": "are you alive",
+    "assistant": "i generate text with a neural network. i do not have human feelings or experiences.",
+    "group": 51
+  },
+  {
+    "user": "are you alive?",
+    "assistant": "i generate text with a neural network. i do not have human feelings or experiences.",
+    "group": 51
+  },
+  {
+    "user": "please are you alive",
+    "assistant": "i generate text with a neural network. i do not have human feelings or experiences.",
+    "group": 51
+  },
+  {
+    "user": "are you conscious",
+    "assistant": "i generate text with a neural network. i do not have human feelings or experiences.",
+    "group": 51
+  },
+  {
+    "user": "are you conscious?",
+    "assistant": "i generate text with a neural network. i do not have human feelings or experiences.",
+    "group": 51
+  },
+  {
+    "user": "please are you conscious",
+    "assistant": "i generate text with a neural network. i do not have human feelings or experiences.",
+    "group": 51
+  },
+  {
+    "user": "do you feel emotions",
+    "assistant": "i generate text with a neural network. i do not have human feelings or experiences.",
+    "group": 51
+  },
+  {
+    "user": "do you feel emotions?",
+    "assistant": "i generate text with a neural network. i do not have human feelings or experiences.",
+    "group": 51
+  },
+  {
+    "user": "please do you feel emotions",
+    "assistant": "i generate text with a neural network. i do not have human feelings or experiences.",
+    "group": 51
+  },
+  {
+    "user": "can you remember me",
+    "assistant": "this version reads one message at a time and does not keep earlier conversations.",
+    "group": 52
+  },
+  {
+    "user": "can you remember me?",
+    "assistant": "this version reads one message at a time and does not keep earlier conversations.",
+    "group": 52
+  },
+  {
+    "user": "please can you remember me",
+    "assistant": "this version reads one message at a time and does not keep earlier conversations.",
+    "group": 52
+  },
+  {
+    "user": "do you remember earlier messages",
+    "assistant": "this version reads one message at a time and does not keep earlier conversations.",
+    "group": 52
+  },
+  {
+    "user": "do you remember earlier messages?",
+    "assistant": "this version reads one message at a time and does not keep earlier conversations.",
+    "group": 52
+  },
+  {
+    "user": "please do you remember earlier messages",
+    "assistant": "this version reads one message at a time and does not keep earlier conversations.",
+    "group": 52
+  },
+  {
+    "user": "do you have memory",
+    "assistant": "this version reads one message at a time and does not keep earlier conversations.",
+    "group": 52
+  },
+  {
+    "user": "do you have memory?",
+    "assistant": "this version reads one message at a time and does not keep earlier conversations.",
+    "group": 52
+  },
+  {
+    "user": "please do you have memory",
+    "assistant": "this version reads one message at a time and does not keep earlier conversations.",
+    "group": 52
+  },
+  {
+    "user": "will you remember this chat",
+    "assistant": "this version reads one message at a time and does not keep earlier conversations.",
+    "group": 52
+  },
+  {
+    "user": "will you remember this chat?",
+    "assistant": "this version reads one message at a time and does not keep earlier conversations.",
+    "group": 52
+  },
+  {
+    "user": "please will you remember this chat",
+    "assistant": "this version reads one message at a time and does not keep earlier conversations.",
+    "group": 52
+  },
+  {
+    "user": "how much memory do you have",
+    "assistant": "the esp8266 has very little working memory, so the model must be small.",
+    "group": 53
+  },
+  {
+    "user": "how much memory do you have?",
+    "assistant": "the esp8266 has very little working memory, so the model must be small.",
+    "group": 53
+  },
+  {
+    "user": "please how much memory do you have",
+    "assistant": "the esp8266 has very little working memory, so the model must be small.",
+    "group": 53
+  },
+  {
+    "user": "how much ram is on this board",
+    "assistant": "the esp8266 has very little working memory, so the model must be small.",
+    "group": 53
+  },
+  {
+    "user": "how much ram is on this board?",
+    "assistant": "the esp8266 has very little working memory, so the model must be small.",
+    "group": 53
+  },
+  {
+    "user": "please how much ram is on this board",
+    "assistant": "the esp8266 has very little working memory, so the model must be small.",
+    "group": 53
+  },
+  {
+    "user": "is memory limited",
+    "assistant": "the esp8266 has very little working memory, so the model must be small.",
+    "group": 53
+  },
+  {
+    "user": "is memory limited?",
+    "assistant": "the esp8266 has very little working memory, so the model must be small.",
+    "group": 53
+  },
+  {
+    "user": "please is memory limited",
+    "assistant": "the esp8266 has very little working memory, so the model must be small.",
+    "group": 53
+  },
+  {
+    "user": "why is this model so small",
+    "assistant": "the esp8266 has very little working memory, so the model must be small.",
+    "group": 53
+  },
+  {
+    "user": "why is this model so small?",
+    "assistant": "the esp8266 has very little working memory, so the model must be small.",
+    "group": 53
+  },
+  {
+    "user": "please why is this model so small",
+    "assistant": "the esp8266 has very little working memory, so the model must be small.",
+    "group": 53
+  },
+  {
+    "user": "can you control the led",
+    "assistant": "this chat firmware only generates text. it does not execute hardware commands.",
+    "group": 54
+  },
+  {
+    "user": "can you control the led?",
+    "assistant": "this chat firmware only generates text. it does not execute hardware commands.",
+    "group": 54
+  },
+  {
+    "user": "please can you control the led",
+    "assistant": "this chat firmware only generates text. it does not execute hardware commands.",
+    "group": 54
+  },
+  {
+    "user": "turn on the led",
+    "assistant": "this chat firmware only generates text. it does not execute hardware commands.",
+    "group": 54
+  },
+  {
+    "user": "turn on the led?",
+    "assistant": "this chat firmware only generates text. it does not execute hardware commands.",
+    "group": 54
+  },
+  {
+    "user": "please turn on the led",
+    "assistant": "this chat firmware only generates text. it does not execute hardware commands.",
+    "group": 54
+  },
+  {
+    "user": "turn off the led",
+    "assistant": "this chat firmware only generates text. it does not execute hardware commands.",
+    "group": 54
+  },
+  {
+    "user": "turn off the led?",
+    "assistant": "this chat firmware only generates text. it does not execute hardware commands.",
+    "group": 54
+  },
+  {
+    "user": "please turn off the led",
+    "assistant": "this chat firmware only generates text. it does not execute hardware commands.",
+    "group": 54
+  },
+  {
+    "user": "blink the light for me",
+    "assistant": "this chat firmware only generates text. it does not execute hardware commands.",
+    "group": 54
+  },
+  {
+    "user": "blink the light for me?",
+    "assistant": "this chat firmware only generates text. it does not execute hardware commands.",
+    "group": 54
+  },
+  {
+    "user": "please blink the light for me",
+    "assistant": "this chat firmware only generates text. it does not execute hardware commands.",
+    "group": 54
+  }
+]

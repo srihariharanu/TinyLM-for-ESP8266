@@ -1,0 +1,17 @@
+{
+  "project": "TinyLM for ESP8266",
+  "version": "0.1.0-experimental",
+  "status": "experimental",
+  "chip": "esp8266",
+  "tested_flash_bytes": 4194304,
+  "cpu_mhz": 160,
+  "flash_mode": "dout",
+  "offset": "0x0",
+  "file": "TinyLM-ESP8266.bin",
+  "bytes": 648400,
+  "sha256": "eee9965b3d4e208fd6489f9154cebba0be43bcc318e305a1512525c3270c2dee",
+  "ssid": "TinyLM-Offline",
+  "wifi_password": "TinyLM8266",
+  "url": "http://192.168.4.1/",
+  "source_package": "TinyLM-ESP8266-developer-0.1.0-experimental.zip"
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "prompt": "hey there little model",
+    "expected_hint": "hello",
+    "reply": "try a small electronics project, a walk, or learning something new.",
+    "hint_present": false
+  },
+  {
+    "prompt": "could you describe ram for me",
+    "expected_hint": "temporary",
+    "reply": "ram holds temporary data while a program is running.",
+    "hint_present": true
+  },
+  {
+    "prompt": "what is flash used for",
+    "expected_hint": "power",
+    "reply": "flash memory keeps programs and data even when the power is off.",
+    "hint_present": true
+  },
+  {
+    "prompt": "explain a resistor in simple words",
+    "expected_hint": "current",
+    "reply": "a resistor limits electric current in a circuit.",
+    "hint_present": true
+  },
+  {
+    "prompt": "please describe a language model",
+    "expected_hint": "patterns",
+    "reply": "a language model learns patterns in text and predicts what comes next.",
+    "hint_present": true
+  },
+  {
+    "prompt": "do your answers require a server",
+    "expected_hint": "offline",
+    "reply": "i am tiny, a neural language model running on an esp8266.",
+    "hint_present": false
+  },
+  {
+    "prompt": "tell me who you are please",
+    "expected_hint": "tiny",
+    "reply": "call me tiny. i am a small neural model on this board.",
+    "hint_present": true
+  },
+  {
+    "prompt": "i would like to hear a joke",
+    "expected_hint": "windows",
+    "reply": "why did the computer get cold? it left its windows open.",
+    "hint_present": true
+  },
+  {
+    "prompt": "what are gpio pins used for",
+    "expected_hint": "signals",
+    "reply": "gpio means general purpose input and output. these pins read or control signals.",
+    "hint_present": true
+  },
+  {
+    "prompt": "does a gpu help with training",
+    "expected_hint": "parallel",
+    "reply": "a gpu performs many calculations in parallel and can help train neural networks.",
+    "hint_present": true
+  },
+  {
+    "prompt": "what makes plants grow",
+    "expected_hint": "water",
+    "reply": "plants use light, water, air, and nutrients to grow.",
+    "hint_present": true
+  },
+  {
+    "prompt": "tell me the capital city of france",
+    "expected_hint": "paris",
+    "reply": "the most chain is earths natural satellite. it reflects light from the sun.",
+    "hint_present": false
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "prompt": "hey there little model",
+    "expected_hint": "hello"
+  },
+  {
+    "prompt": "could you describe ram for me",
+    "expected_hint": "temporary"
+  },
+  {
+    "prompt": "what is flash used for",
+    "expected_hint": "power"
+  },
+  {
+    "prompt": "explain a resistor in simple words",
+    "expected_hint": "current"
+  },
+  {
+    "prompt": "please describe a language model",
+    "expected_hint": "patterns"
+  },
+  {
+    "prompt": "do your answers require a server",
+    "expected_hint": "offline"
+  },
+  {
+    "prompt": "tell me who you are please",
+    "expected_hint": "tiny"
+  },
+  {
+    "prompt": "i would like to hear a joke",
+    "expected_hint": "windows"
+  },
+  {
+    "prompt": "what are gpio pins used for",
+    "expected_hint": "signals"
+  },
+  {
+    "prompt": "does a gpu help with training",
+    "expected_hint": "parallel"
+  },
+  {
+    "prompt": "what makes plants grow",
+    "expected_hint": "water"
+  },
+  {
+    "prompt": "tell me the capital city of france",
+    "expected_hint": "paris"
+  }
+]

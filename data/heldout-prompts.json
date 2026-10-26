@@ -1,0 +1,58 @@
+[
+  {
+    "prompt": "hello tiny",
+    "expected_hint": "hello"
+  },
+  {
+    "prompt": "what do i call you",
+    "expected_hint": "tiny"
+  },
+  {
+    "prompt": "are your replies made on this chip",
+    "expected_hint": "esp8266"
+  },
+  {
+    "prompt": "explain what ram does",
+    "expected_hint": "temporary"
+  },
+  {
+    "prompt": "what does flash keep",
+    "expected_hint": "power"
+  },
+  {
+    "prompt": "what does a language model learn",
+    "expected_hint": "patterns"
+  },
+  {
+    "prompt": "could you tell me a joke",
+    "expected_hint": "windows"
+  },
+  {
+    "prompt": "please explain what wifi does",
+    "expected_hint": "network"
+  },
+  {
+    "prompt": "can this work without the internet",
+    "expected_hint": "offline"
+  },
+  {
+    "prompt": "how can i start learning to program",
+    "expected_hint": "program"
+  },
+  {
+    "prompt": "thanks for your help",
+    "expected_hint": "welcome"
+  },
+  {
+    "prompt": "what is the capital of france",
+    "expected_hint": "paris"
+  },
+  {
+    "prompt": "how do you store your learned numbers",
+    "expected_hint": "weights"
+  },
+  {
+    "prompt": "can you explain what a resistor does",
+    "expected_hint": "current"
+  }
+]
