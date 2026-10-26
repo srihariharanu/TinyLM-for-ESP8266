@@ -1,0 +1,7 @@
+# Preserve exact release bytes and checksum inventories across checkouts.
+* -text
+*.bin binary
+*.pt binary
+*.npz binary
+*.parquet binary
+*.zip binary

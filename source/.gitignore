@@ -1,0 +1,30 @@
+# Local environments and tools
+.venv/
+.arduino/
+.playwright/
+node_modules/
+tools/
+cache/
+tmp/
+logs/
+build/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.log
+.DS_Store
+Thumbs.db
+# Private reports and authoring artifacts
+report/
+*.pdf
+opensource-work/
+# Distribution images, runtime snapshot and checkpoints intentionally tracked.
+
+# Preserve third-party license copies even inside folders named tools.
+!licenses/**
+!ready-to-flash/licenses/**

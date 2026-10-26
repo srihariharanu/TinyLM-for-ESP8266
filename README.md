@@ -21,6 +21,16 @@ server is required during normal use after flashing.
 > is an ESP8266EX with 4 MB flash at 160 MHz. This is a narrow-domain language-model
 > demonstration, not a general assistant or a production-certified product.
 
+## Choose your folder
+
+| Folder | Audience | Contents |
+| --- | --- | --- |
+| [source/](source/README.md) | Firmware and model development | Full model/training source, data, checkpoint, build scripts and tests |
+| [firmware/](firmware/README.md) | Ready-to-flash firmware | Firmware, simple installer and step-by-step mobile-chat instructions |
+
+Both are maintained in this one repository. End users can use the product folder
+without installing the developer training stack.
+
 ## Contents
 
 - [Start here](#start-here)
@@ -39,15 +49,15 @@ server is required during normal use after flashing.
 
 | You want to… | Use |
 | --- | --- |
-| Install the existing model without editing source | [Ready-to-flash product and manual](ready-to-flash/README.md) |
-| Compile firmware using the supplied trained weights | [Developer guide](docs/DEVELOPMENT.md) |
-| Reproduce data preparation, training and export | [Training guide](docs/TRAINING.md) |
-| Understand model behavior and limits | [Model card](docs/MODEL_CARD.md) |
-| Integrate with the local HTTP interface | [API reference](docs/API_REFERENCE.md) |
-| Inspect evidence or contribute | [Validation](docs/VALIDATION.md), [contribution guide](CONTRIBUTING.md) |
+| Install the existing model without editing source | [Ready-to-flash product and manual](firmware/README.md) |
+| Compile firmware using the supplied trained weights | [Developer guide](source/docs/DEVELOPMENT.md) |
+| Reproduce data preparation, training and export | [Training guide](source/docs/TRAINING.md) |
+| Understand model behavior and limits | [Model card](source/docs/MODEL_CARD.md) |
+| Integrate with the local HTTP interface | [API reference](source/docs/API_REFERENCE.md) |
+| Inspect evidence or contribute | [Validation](source/docs/VALIDATION.md), [contribution guide](CONTRIBUTING.md) |
 
-This repository includes both the complete developer source and the simple
-end-user product in `ready-to-flash/`. The product image already contains the
+This repository includes both the complete complete source and the simple
+end-user product in `firmware/`. The product image already contains the
 trained model, hotspot server and page; no dataset or separate filesystem image
 needs to be uploaded to the board.
 
@@ -57,7 +67,7 @@ needs to be uploaded to the board.
 
 Use an ESP8266 USB development board with **4 MB flash**, a USB data cable and
 Python 3.12 recommended. The flashing tool needs internet for its initial setup.
-Download/extract this repository and open `ready-to-flash/`.
+Download/extract this repository and open `firmware/`.
 
 On Windows, double-click **Setup and Flash.cmd**, choose the ESP8266 port and
 confirm the firmware replacement by typing `FLASH`. Wait for completion and
@@ -65,7 +75,7 @@ press RESET on the board. For subsequent offline flashing, use **Flash.cmd**.
 
 On Linux/macOS, run `python3 -B flash.py --setup` from that folder. These platforms
 have instructions provided but have not been hardware-validated for this release.
-See the [installation manual](ready-to-flash/README.md) for drivers, boot-button
+See the [installation manual](firmware/README.md) for drivers, boot-button
 recovery and troubleshooting. The installer verifies its firmware hash before
 accessing a device.
 
@@ -133,7 +143,7 @@ Offline use
 The browser polls partial results while the board generates characters. Incremental
 work and yield calls keep its network server responsive. The UI uses no remote
 scripts, fonts, CDN or assets; repository badges above are only GitHub-page images.
-See [architecture](docs/ARCHITECTURE.md) for implementation details.
+See [architecture](source/docs/ARCHITECTURE.md) for implementation details.
 
 ## Measured results
 
@@ -153,8 +163,8 @@ These are separate from a new hardware flash, which was not performed in this pa
 | Current mobile UI checks | 11 passed | Includes widths 320, 390 and 768 px, sessions and no remote assets |
 
 GitHub CI is configured; the workflow run on this repository is the authoritative
-record of its remote status. See [validation and limits](docs/VALIDATION.md),
-[recorded local checks](docs/RELEASE_VALIDATION.json), and the full evaluation
+record of its remote status. See [validation and limits](source/docs/VALIDATION.md),
+[recorded local checks](source/docs/RELEASE_VALIDATION.json), and the full evaluation
 outputs under `model/`, including incorrect replies.
 
 ## Development and training
@@ -163,11 +173,11 @@ Clone the repository:
 
 ```sh
 git clone https://github.com/srihariharanu/TinyLM-for-ESP8266.git
-cd TinyLM-for-ESP8266
+cd TinyLM-for-ESP8266/developer
 ```
 
 For Windows development, install Python 3.12 and Arduino CLI, then follow
-[DEVELOPMENT.md](docs/DEVELOPMENT.md). It includes the pinned ESP8266 core 3.0.2
+[DEVELOPMENT.md](source/docs/DEVELOPMENT.md). It includes the pinned ESP8266 core 3.0.2
 installation, build commands, optional CUDA setup, hardware tests and runtime
 relinking instructions. The reference training run used an RTX 4050; a GPU is
 optional. Building supplied weights does not require retraining.
@@ -184,29 +194,35 @@ powershell -ExecutionPolicy Bypass -File .\train-and-build.ps1
 ```
 
 Complete source data, prepared examples, vocabulary, checkpoint and quantized
-arrays are included. Read [training and reproducibility](docs/TRAINING.md) and
-[data attribution](data/ATTRIBUTION.md) before modifying or redistributing them.
+arrays are included. Read [training and reproducibility](source/docs/TRAINING.md) and
+[data attribution](source/data/ATTRIBUTION.md) before modifying or redistributing them.
 Training and rebuilding are not claimed bit-for-bit reproducible across hosts.
 Only load trusted checkpoints.
 
 ## Repository map
 
 ```text
-.github/                 GitHub CI, issue and pull-request templates
-data/                    Source data, prepared pairs, vocabulary, provenance
-firmware/RecurrentLM/    ESP8266 inference, portal, complete weights and page
-model/                   Checkpoint, quantized arrays, full evaluation outputs
-web/                     Editable offline mobile interface
-ready-to-flash/           End-user image, simple installer, manual and notices
-tests/                   Release/installer, browser and opt-in hardware checks
-docs/                    Architecture, training, API, validation and operations
-third_party/             Core runtime snapshot and explicit snapshot scope
-licenses/                Original third-party license copies
-LICENSE / NOTICE         Apache 2.0 and original-work attribution
-SHA256SUMS.txt            Exact distributed-file integrity inventory
+TinyLM-for-ESP8266/
+  source/                Complete source workspace
+    data/                   Datasets, prepared examples and provenance
+    firmware/RecurrentLM/   ESP8266 inference, model weights and portal
+    model/                  Checkpoint, quantized arrays and evaluations
+    web/                    Editable offline page
+    tests/                  Installer, model/package, UI and device checks
+    docs/                   Build, training, architecture and API guides
+    third_party/            Runtime source/platform snapshot
+    licenses/               Original third-party license copies
+  firmware/                Ready-to-flash firmware package
+    TinyLM-ESP8266.bin       Model and UI already included
+    Setup and Flash.cmd     First-time Windows installation
+    Flash.cmd               Reuse the installed flashing tool
+    README.md               Installation, Wi-Fi and usage guide
+    licenses/               Required runtime license notices
+  .github/                  CI and contribution templates
+  LICENSE / NOTICE          Apache 2.0 and original-work attribution
 ```
 
-The [file guide](docs/FILE_GUIDE.md) explains individual source files. PDFs,
+The [file guide](source/docs/FILE_GUIDE.md) explains individual source files. PDFs,
 report/archive generators, personal machine/network logs, screenshots, caches,
 browser profiles and installed tool environments are excluded from this public
 repository. Third-party runtime sources needed for rebuilding are retained with
@@ -218,7 +234,7 @@ The firmware makes no cloud inference or telemetry request. Sessions and active
 job state are held in board RAM; visible conversation turns are held by the
 browser. This is local HTTP with a public demonstration Wi-Fi password, not a
 secure identity or confidential multi-user service. Use non-sensitive inputs.
-See [security and privacy](docs/SECURITY_AND_PRIVACY.md).
+See [security and privacy](source/docs/SECURITY_AND_PRIVACY.md).
 
 The model ignores input word order, shares a token for unknown words, and has no
 conversation memory. It can repeat training phrasing, invent information or give
@@ -228,13 +244,13 @@ production certification or external security audit is claimed.
 
 ## Documentation
 
-The [documentation index](docs/README.md) links all guides. Common references:
+The [documentation index](source/docs/README.md) links all guides. Common references:
 
-- [Architecture](docs/ARCHITECTURE.md) and [model card](docs/MODEL_CARD.md)
-- [Developer setup](docs/DEVELOPMENT.md) and [training](docs/TRAINING.md)
-- [Offline HTTP API](docs/API_REFERENCE.md) and [dependency inventory](docs/DEPENDENCIES.md)
-- [End-user manual](ready-to-flash/README.md) and [support](SUPPORT.md)
-- [Release procedure](docs/PUBLISHING.md), [version control](docs/VERSIONING.md) and [changelog](CHANGELOG.md)
+- [Architecture](source/docs/ARCHITECTURE.md) and [model card](source/docs/MODEL_CARD.md)
+- [Developer setup](source/docs/DEVELOPMENT.md) and [training](source/docs/TRAINING.md)
+- [Offline HTTP API](source/docs/API_REFERENCE.md) and [dependency inventory](source/docs/DEPENDENCIES.md)
+- [End-user manual](firmware/README.md) and [support](SUPPORT.md)
+- [Release procedure](source/docs/PUBLISHING.md), [version control](source/docs/VERSIONING.md) and [changelog](CHANGELOG.md)
 
 ## Contributing and future updates
 
@@ -262,7 +278,7 @@ to its terms. No copyright assignment is required from contributors.
 The compiled firmware and mixed training data are not exclusively Apache-2.0
 work: upstream components retain their own terms. See
 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md), [COPYRIGHT.md](COPYRIGHT.md), and
-`licenses/`. Distribute the companion developer source with firmware releases
+`source/licenses/` and `firmware/licenses/`. Distribute the companion complete source with firmware releases
 for runtime rebuilding and relinking. Model rights are granted only to the
 extent held; attribution documents do not constitute government registration.
 

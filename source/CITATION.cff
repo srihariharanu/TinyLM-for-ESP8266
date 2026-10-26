@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this experimental project, please cite it."
+type: software
+title: "TinyLM for ESP8266"
+authors:
+  - family-names: "U"
+    given-names: "Sri Hariharan"
+    email: "srihariharanu@gmail.com"
+version: "0.1.0-experimental"
+date-released: "2026-10-26"
+license: Apache-2.0
+abstract: "Experimental offline neural language model and mobile chat portal designed for ESP8266."

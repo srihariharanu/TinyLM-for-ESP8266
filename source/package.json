@@ -1,0 +1,17 @@
+{
+  "name": "tinylm-esp8266",
+  "version": "0.1.0-experimental",
+  "private": true,
+  "license": "Apache-2.0",
+  "scripts": {
+    "test:ui": "node tests/web_ui_test.cjs",
+    "test:live": "node tests/live_ui_test.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.56.1"
+  },
+  "author": {
+    "name": "Sri Hariharan U",
+    "email": "srihariharanu@gmail.com"
+  }
+}

@@ -1,6 +1,6 @@
 # Support
 
-Start with ready-to-flash/README.md for installation and troubleshooting.
+Start with firmware/README.md for installation and troubleshooting.
 After publication, use GitHub issues for development questions with version,
 board/flash size, OS, reproduction and a redacted error. Never attach secrets,
 private network state or raw personal logs. Rights/private security contact:

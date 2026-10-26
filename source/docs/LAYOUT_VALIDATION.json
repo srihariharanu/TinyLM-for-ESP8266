@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-26",
+  "layout": [
+    "source/",
+    "firmware/"
+  ],
+  "single_repository": true,
+  "original_project_license": "Apache-2.0",
+  "owner_notice_checks_passed": true,
+  "source_and_firmware_licenses_preserved": true,
+  "datasets_and_model_files_unchanged": true,
+  "firmware_image_unchanged": true,
+  "unit_tests_passed": 10,
+  "image_integrity_check_passed": true,
+  "markdown_file_links_checked": 90,
+  "privacy_scan_files_including_nested_archives": 2051,
+  "known_private_metadata_findings": 0,
+  "new_device_flash_performed": false,
+  "history_rewritten": false,
+  "original_tag_preserved": true
+}
