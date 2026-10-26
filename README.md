@@ -7,7 +7,7 @@
 ![Original project license: Apache 2.0](https://img.shields.io/badge/license-Apache--2.0-3776ab)
 ![Release candidate: 0.1.0](https://img.shields.io/badge/version-0.1.0--experimental-627d49)
 
-Created and maintained by **Sri Hariharan U** · Rights contact:
+Created and maintained by **Sri Hariharan U** Â· Rights contact:
 **srihariharanu@gmail.com**
 
 TinyLM explores how much learned text generation can fit on a small microcontroller.
@@ -36,7 +36,7 @@ server is required during normal use after flashing.
 
 ## Start here
 
-| You want to… | Use |
+| You want toâ€¦ | Use |
 | --- | --- |
 | Install the existing model without editing source | [Ready-to-flash product and manual](ready-to-flash/README.md) |
 | Compile firmware using the supplied trained weights | [Developer guide](docs/DEVELOPMENT.md) |
@@ -233,7 +233,7 @@ The [documentation index](docs/README.md) links all guides. Common references:
 - [Developer setup](docs/DEVELOPMENT.md) and [training](docs/TRAINING.md)
 - [Offline HTTP API](docs/API_REFERENCE.md) and [dependency inventory](docs/DEPENDENCIES.md)
 - [End-user manual](ready-to-flash/README.md) and [support](SUPPORT.md)
-- [Release procedure](docs/PUBLISHING.md) and [changelog](CHANGELOG.md)
+- [Release procedure](docs/PUBLISHING.md), [version control](docs/VERSIONING.md) and [changelog](CHANGELOG.md)
 
 ## Contributing and future updates
 
@@ -250,7 +250,7 @@ using [SECURITY.md](SECURITY.md). Support is voluntary, without a service SLA.
 
 ## Ownership and licensing
 
-Copyright **2026 Sri Hariharan U** · **srihariharanu@gmail.com**.
+Copyright **2026 Sri Hariharan U** Â· **srihariharanu@gmail.com**.
 
 Original project contributions are available free of charge under
 [Apache License 2.0](LICENSE), with attribution in [NOTICE](NOTICE) and

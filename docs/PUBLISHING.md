@@ -1,7 +1,11 @@
 # GitHub publication and release checklist
 
-Prepared locally. No GitHub remote, repository, tag, release, registration or
-ownership verification has been created. The owner will supply the repository URL.
+Repository: https://github.com/srihariharanu/TinyLM-for-ESP8266
+
+The initial source and end-user product are published on main. The procedures
+below describe publication and future release preparation. A tag is distinct
+from a GitHub Release with uploaded assets. No government registration or
+independent ownership verification is claimed. See VERSIONING.md.
 
 ## Before first push
 
@@ -22,10 +26,10 @@ ownership verification has been created. The owner will supply the repository UR
 
 ## First push after URL is supplied
 
-The local repository is initialized on main without a commit or remote. Review
-`git status`, configure an appropriate commit identity, stage intended files,
-review `git diff --cached --stat`, and commit. Connect only the confirmed remote
-and push main. Do not embed credentials in URLs, commands or documentation.
+For a new clone or future fork, review git status and configure the intended
+commit identity. Use a topic branch, review the staged diff, commit and integrate
+reviewed changes on main. The published project remote is the URL above. Never
+embed credentials in URLs, commands or documentation.
 
 ## First release
 
