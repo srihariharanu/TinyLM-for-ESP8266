@@ -1,6 +1,11 @@
 # Changelog
 
-## 0.1.0-experimental â€” 2026-10-26
+## Unreleased
+
+- Improve documentation navigation and text encoding.
+- Add a GitHub Actions status badge and clarify publication/CI records.
+
+## 0.1.0-experimental — 2026-10-26
 
 Initial public release candidate designed for ESP8266: trained neural model,
 offline mobile chat portal, full training inputs/checkpoint, portable developer
