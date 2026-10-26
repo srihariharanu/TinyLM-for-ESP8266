@@ -2,12 +2,13 @@
 
 **A trained neural language model and offline mobile chat portal on an ESP8266.**
 
+[![Build and package checks](https://github.com/srihariharanu/TinyLM-for-ESP8266/actions/workflows/validate.yml/badge.svg)](https://github.com/srihariharanu/TinyLM-for-ESP8266/actions/workflows/validate.yml)
 ![Target: ESP8266](https://img.shields.io/badge/target-ESP8266-2c6772)
 ![Status: experimental](https://img.shields.io/badge/status-experimental-d69e2e)
 ![Original project license: Apache 2.0](https://img.shields.io/badge/license-Apache--2.0-3776ab)
 ![Release candidate: 0.1.0](https://img.shields.io/badge/version-0.1.0--experimental-627d49)
 
-Created and maintained by **Sri Hariharan U** Â· Rights contact:
+Created and maintained by **Sri Hariharan U** · Rights contact:
 **srihariharanu@gmail.com**
 
 TinyLM explores how much learned text generation can fit on a small microcontroller.
@@ -36,7 +37,7 @@ server is required during normal use after flashing.
 
 ## Start here
 
-| You want toâ€¦ | Use |
+| You want to… | Use |
 | --- | --- |
 | Install the existing model without editing source | [Ready-to-flash product and manual](ready-to-flash/README.md) |
 | Compile firmware using the supplied trained weights | [Developer guide](docs/DEVELOPMENT.md) |
@@ -250,7 +251,7 @@ using [SECURITY.md](SECURITY.md). Support is voluntary, without a service SLA.
 
 ## Ownership and licensing
 
-Copyright **2026 Sri Hariharan U** Â· **srihariharanu@gmail.com**.
+Copyright **2026 Sri Hariharan U** · **srihariharanu@gmail.com**.
 
 Original project contributions are available free of charge under
 [Apache License 2.0](LICENSE), with attribution in [NOTICE](NOTICE) and

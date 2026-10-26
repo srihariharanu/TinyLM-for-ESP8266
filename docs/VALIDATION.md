@@ -23,8 +23,11 @@ flash logs, screenshots, debug ELF/map files and prior PDFs are excluded.
 
 Python syntax, firmware hashes, embedded-page/source equality, expected file
 coverage, licensing, local documentation links and private-path scanning are
-checked. See RELEASE_VALIDATION.json for executed results. GitHub workflows are
-prepared but have not yet run on GitHub.
+checked. See RELEASE_VALIDATION.json for executed results. GitHub workflows now run on the public repository. Initial publication checks
+passed for package validation and ESP8266 firmware compilation. The JSON records
+local preparation state; see the current Actions run for remote CI status.
+
+https://github.com/srihariharanu/TinyLM-for-ESP8266/actions
 
 Support is demonstrated on one ESP8266EX configuration. Other boards, Linux/macOS
 flashing and modified runtime builds need validation. No ESP32 support, commercial
