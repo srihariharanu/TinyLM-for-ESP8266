@@ -15,14 +15,14 @@
   "weights_unchanged": true,
   "all_training_data_and_model_files_unchanged": true,
   "public_package_mirrors_match": true,
-  "privacy_scan_files_including_nested_archives": 2067,
+  "privacy_scan_files_including_nested_archives": 2068,
   "nested_archive_entries_scanned": 1888,
   "private_metadata_or_credential_signature_findings": 0,
   "first_party_email_allowlist": [
     "srihariharanu@gmail.com"
   ],
   "upstream_notices_preserved": true,
-  "local_markdown_links_checked": 62,
+  "local_markdown_links_checked": 64,
   "git_remote_configured": false,
   "github_ci_executed": false,
   "firmware_sha256": "eee9965b3d4e208fd6489f9154cebba0be43bcc318e305a1512525c3270c2dee",

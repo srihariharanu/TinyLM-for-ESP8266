@@ -28,6 +28,7 @@ TinyLM is experimental software designed for ESP8266.
 - [Code of conduct](../CODE_OF_CONDUCT.md)
 - [Private security reporting](../SECURITY.md)
 - [Support](../SUPPORT.md)
+- [Version control and release policy](VERSIONING.md)
 - [GitHub publication and release checklist](PUBLISHING.md)
 - [Copyright](../COPYRIGHT.md), [Apache 2.0 license](../LICENSE), [NOTICE](../NOTICE),
   [third-party notices](../THIRD_PARTY_NOTICES.md), [credits](../CREDITS.md)
