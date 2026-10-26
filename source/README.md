@@ -1,5 +1,7 @@
 # TinyLM for ESP8266 — source and training workspace
 
+<p align="center"><img src="../firmware/tinylm-logo.png" alt="TinyLM chip and neural circuit project logo" width="180"></p>
+
 Experimental neural language model designed for ESP8266EX, 4 MB flash, 160 MHz.
 Created and maintained by Sri Hariharan U; rights: srihariharanu@gmail.com.
 

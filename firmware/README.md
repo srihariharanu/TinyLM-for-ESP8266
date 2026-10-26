@@ -1,5 +1,7 @@
 # TinyLM for ESP8266 — ready to flash
 
+<p align="center"><img src="tinylm-logo.png" alt="TinyLM chip and neural circuit project logo" width="180"></p>
+
 **Experimental • designed for ESP8266 • fully offline after flashing**
 
 A tiny trained neural language model and mobile chat page in one firmware file.
