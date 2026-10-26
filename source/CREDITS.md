@@ -12,3 +12,9 @@ application are attributed to Sri Hariharan U. Development used AI-assisted
 coding and documentation tools. Upstream projects do not endorse this project.
 Third-party code/data retain their original ownership and license terms;
 see THIRD_PARTY_NOTICES.md. Contributors retain copyright in their contributions.
+
+## Project artwork
+
+The TinyLM banner and chip/brain logo were supplied for this project by
+Sri Hariharan U. Rights contact: srihariharanu@gmail.com. The files are used
+in project documentation; third-party software/data notices remain unchanged.

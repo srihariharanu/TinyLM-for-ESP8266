@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Add supplied TinyLM banner and logo to documentation; firmware image unchanged.
+
 - Separate the single repository into source/ and firmware/ audience folders.
 - Keep one shared Git history, CI and licensing at the repository root.
 

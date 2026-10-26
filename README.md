@@ -1,5 +1,7 @@
 # TinyLM for ESP8266
 
+![TinyLM: language models for microcontrollers, experimental for ESP8266](source/docs/assets/tinylm-banner.png)
+
 **A trained neural language model and offline mobile chat portal on an ESP8266.**
 
 [![Build and package checks](https://github.com/srihariharanu/TinyLM-for-ESP8266/actions/workflows/validate.yml/badge.svg)](https://github.com/srihariharanu/TinyLM-for-ESP8266/actions/workflows/validate.yml)

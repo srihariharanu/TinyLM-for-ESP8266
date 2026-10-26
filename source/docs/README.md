@@ -20,6 +20,8 @@ TinyLM is experimental software designed for ESP8266.
 - [Executed release preparation checks](RELEASE_VALIDATION.json)
 - [Runtime snapshot scope](../third_party/SNAPSHOT.md)
 
+- [Project branding assets and use](BRANDING.md)
+
 ## Participate and publish
 
 - [Roadmap and future updates](../ROADMAP.md)
