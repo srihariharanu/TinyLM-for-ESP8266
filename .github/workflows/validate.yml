@@ -2,6 +2,9 @@ name: Validate source and firmware
 on: [push, pull_request, workflow_dispatch]
 permissions:
   contents: read
+defaults:
+  run:
+    working-directory: source
 jobs:
   package:
     runs-on: ubuntu-latest

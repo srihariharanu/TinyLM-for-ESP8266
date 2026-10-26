@@ -1,0 +1,35 @@
+{
+  "version": "0.1.0-experimental",
+  "original_project_license": "Apache-2.0",
+  "date": "2026-10-26",
+  "target": "ESP8266EX, 4 MB flash, 160 MHz",
+  "status": "experimental",
+  "local_unit_tests_passed": 10,
+  "mobile_ui_checks_passed": 11,
+  "powershell_syntax_checks_passed": true,
+  "clean_source_firmware_compile_passed": true,
+  "compiler_reported_program_bytes": 644241,
+  "compiler_reported_static_bytes": 38408,
+  "release_binary_is_previous_device_tested_image": true,
+  "new_device_flash_performed": false,
+  "weights_unchanged": true,
+  "all_training_data_and_model_files_unchanged": true,
+  "public_package_mirrors_match": true,
+  "privacy_scan_files_including_nested_archives": 2068,
+  "nested_archive_entries_scanned": 1888,
+  "private_metadata_or_credential_signature_findings": 0,
+  "first_party_email_allowlist": [
+    "srihariharanu@gmail.com"
+  ],
+  "upstream_notices_preserved": true,
+  "local_markdown_links_checked": 64,
+  "git_remote_configured": false,
+  "github_ci_executed": false,
+  "firmware_sha256": "eee9965b3d4e208fd6489f9154cebba0be43bcc318e305a1512525c3270c2dee",
+  "limitations": [
+    "No new hardware flash in this packaging pass",
+    "Linux/macOS hardware flashing not validated",
+    "Scan checks known private metadata and common credential patterns, not a guarantee against every possible sensitive string",
+    "Upstream dataset content and third-party copyright/contact notices are preserved"
+  ]
+}

@@ -2,6 +2,9 @@
 
 ## Unreleased
 
+- Separate the single repository into source/ and firmware/ audience folders.
+- Keep one shared Git history, CI and licensing at the repository root.
+
 - Improve documentation navigation and text encoding.
 - Add a GitHub Actions status badge and clarify publication/CI records.
 

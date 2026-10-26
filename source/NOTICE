@@ -1,0 +1,11 @@
+TinyLM for ESP8266
+Copyright 2026 Sri Hariharan U
+Rights and attribution contact: srihariharanu@gmail.com
+
+Experimental neural language model and offline mobile chat portal designed
+for ESP8266. Original contributions are licensed under Apache License 2.0.
+
+This product includes third-party software and public training data.
+Their copyrights and license terms remain with the respective owners.
+See THIRD_PARTY_NOTICES.md, licenses/, and the developer data/ attribution.
+This notice does not modify the Apache License or upstream license terms.
